@@ -100,6 +100,34 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPad Air 2 | iOS 9.3.3 |
 
 
+# Planned Supported Devices above iOS 10
+| Device | Supports |
+|---------|----------|
+| iPhone 5C | planned |
+| iPhone 5S | planned |
+| iPhone 6/+ | planned |
+| iPhone 6S/+ | planned |
+| iPhone 7/+ | planned |
+| iPhone SE | planned |
+| Apple TV 4 | planned |
+| Apple TV 4K | planned |
+
+
+# Not Supported Devices Yet as i dont have
+| Device | Supports |
+|---------|----------|
+| iPhone SE | Untested/Unknown  |
+| iPhone 6/+ | Untested/Unknown  |
+| iPhone 7/+ | Untested/Unknown |
+| iPhone 8 | Untested/Unknown |
+| iPhone X | Untested/Unknown  |
+| iPhone XR | Untested/Unknown  |
+| iPhone XS | Untested/Unknown  |
+| iPhone XS Max | Untested/Unknown  |
+| iPad Mini 4 | Untested/Unknown  |
+| iPod Touch 6 | Untested/Unknown | 
+
+
 # Supported Devices iOS 7.0 to iOS 7.1.2 
 | iOS |5S|
 |----------|----------|
@@ -113,6 +141,8 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iOS 7.1 | Untested/Unknown |
 | iOS 7.1.1	| Untested/Unknown  |
 | iOS 7.1.2 | Untested/Unknown  |
+
+
 
 # Supported Devices iOS 8.0 to iOS 8.3
 | iOS |5S|6/+|iPad Air 2|iPad Air Pro 12.9 1st gen|
@@ -152,25 +182,6 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPad Air 2 | iOS 9.3.4 | Untested/Unknown || iPad Air Pro 12.9 1st gen | iOS 9.3.4 | Untested/Unknown |
 | iPad Air 2
 
-# Not Supported Devices Yet as i dont have
-| Device | Supports |
-|---------|----------|
-| iPhone SE | Untested/Unknown  |
-| iPhone 6/+ | Untested/Unknown  |
-| iPhone 7/+ | Untested/Unknown |
-| iPhone 8 | Untested/Unknown |
-| iPhone X | Untested/Unknown  |
-| iPhone XR | Untested/Unknown  |
-| iPhone XS | Untested/Unknown  |
-| iPhone XS Max | Untested/Unknown  |
-| iPad Mini 4 | Untested/Unknown  |
-| iPod Touch 6 | Untested/Unknown | 
-
-| iOS 9.3.5 | Untested/Unknown || iPad Air Pro 12.9 1st gen | iOS 9.3.5 | Untested/Unknown |
-
-
-
-
 
 # Supported Devices iOS 10.0 to iOS 10.3.3
 | iOS |5S|6/+|6S/+|SE|7/+|8/+|X|iPad Air 2|iPad Air Pro 12.9 1st gen|
@@ -209,7 +220,6 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iOS 11.2.4.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |iOS 11.2.6 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
 
 
-
 # Supported Devices iOS 12.0 to iOS 12.0 
 | iOS |5S|6/+|6S/+|SE|7/+|8/+|X|XR|XS|XS Max|iPad Air 2|iPad Air Pro 12.9 1st gen|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
@@ -239,19 +249,6 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPad Air 2 | iOS 9.3.3 | Working || iPad Air Pro 12.9 1st gen | iOS 9.3.3 | untested |
 | iPad Air 2 | iOS 9.3.4 | Untested/Unknown || iPad Air Pro 12.9 1st gen | iOS 9.3.4 | Untested/Unknown |
 | iPad Air 2 | iOS 9.3.5 | Untested/Unknown || iPad Air Pro 12.9 1st gen | iOS 9.3.5 | Untested/Unknown |
-
-
-# Planned Supported Devices above iOS 10
-| Device | Supports |
-|---------|----------|
-| iPhone 5C | planned |
-| iPhone 5S | planned |
-| iPhone 6/+ | planned |
-| iPhone 6S/+ | planned |
-| iPhone 7/+ | planned |
-| iPhone SE | planned |
-| Apple TV 4 | planned |
-| Apple TV 4K | planned |
 
 
 # Not Supported Devices Yet above iOS 10
@@ -313,6 +310,8 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPhone 8+ | planned |
 | iphone X | planned |
 | apple tv 4 | planned |
+
+
 
 
 I would like to say a big thank you to the people that have helped me make this happen:
