@@ -7,7 +7,7 @@ This is my own attempted to get reworking my layout is taken form another tweak 
 
 My own plan is to make it work from see below
 
-ios 7/8/9/10/11/12/ and soon
+ios 7/8/9/10/11/12/ and so on
 
 a working verson of SpinSettings for  ios 11.0 to 12.0
 
@@ -115,7 +115,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iOS 7.1.2 | Untested/Unknown  |
 
 # Supported Devices iOS 8.0 to iOS 8.3
-| iOS |5S|6/+|
+| iOS |5S|6/+|iPad Air 2|iPad Air Pro 12.9 1st gen|
 |----------|----------|----------|
 | iOS 8.0  | Untested/Unknown |Untested/Unknown |
 | iOS 8.0.1 	|Untested/Unknown |Untested/Unknown |
@@ -129,7 +129,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 
 # Supported Devices iOS 9.0 to iOS 9.3.5
-| iOS |5S|6/+|6S/+|SE|
+| iOS |5S|6/+|6S/+|SE|iPad Air 2|iPad Air Pro 12.9 1st gen|
 |----------|----------|----------|----------|----------|
 | iOS 9.0  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 9.0.1 	| N/A | N/A |N/A |Untested/Unknown |
@@ -150,17 +150,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 |---------|----------|----------|---------|----------|----------|----------|
 | iPad Air 2 | iOS 9.3.3 | Working || iPad Air Pro 12.9 1st gen | iOS 9.3.3 | untested |
 | iPad Air 2 | iOS 9.3.4 | Untested/Unknown || iPad Air Pro 12.9 1st gen | iOS 9.3.4 | Untested/Unknown |
-| iPad Air 2 | iOS 9.3.5 | Untested/Unknown || iPad Air Pro 12.9 1st gen | iOS 9.3.5 | Untested/Unknown |
-
-
-# Supported Devices 64Bit
-| Device | Supports |
-|---------|----------|
-| iPhone 5S | iOS 9.3.3 |
-| iPhone 6/+ | iOS 9.3.3 |
-| iPhone 6S/+ | iOS 9.3.3 |
-| iPad Air 2 | iOS 9.3.3 |
-
+| iPad Air 2
 
 # Not Supported Devices Yet as i dont have
 | Device | Supports |
@@ -174,11 +164,16 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPhone XS | Untested/Unknown  |
 | iPhone XS Max | Untested/Unknown  |
 | iPad Mini 4 | Untested/Unknown  |
-| iPod Touch 6 | Untested/Unknown |
+| iPod Touch 6 | Untested/Unknown | 
+
+| iOS 9.3.5 | Untested/Unknown || iPad Air Pro 12.9 1st gen | iOS 9.3.5 | Untested/Unknown |
+
+
+
 
 
 # Supported Devices iOS 10.0 to iOS 10.3.3
-| iOS |5S|6/+|6S/+|SE|7/+|8/+|X|
+| iOS |5S|6/+|6S/+|SE|7/+|8/+|X|iPad Air 2|iPad Air Pro 12.9 1st gen|
 |----------|----------|----------|----------|----------|----------|----------|----------|
 | iOS 10.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 10.0.1	| N/A | N/A |N/A |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
@@ -195,7 +190,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 
 # Supported Devices iOS 11.0 to iOS 11.4.1 
-| iOS |5S|6/+|6S/+|SE|7/+|8/+|X|
+| iOS |5S|6/+|6S/+|SE|7/+|8/+|X|iPad Air 2|iPad Air Pro 12.9 1st gen|
 |----------|----------|----------|----------|----------|----------|----------|----------|
 | iOS 11.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 11.0.1	| N/A | N/A |N/A |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
@@ -216,10 +211,10 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 
 # Supported Devices iOS 12.0 to iOS 12.0 
-| iOS |5S|6/+|6S/+|SE|7/+|8/+|X|XR|XS|XS Max|
+| iOS |5S|6/+|6S/+|SE|7/+|8/+|X|XR|XS|XS Max|iPad Air 2|iPad Air Pro 12.9 1st gen|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
-| iOS 12.0	| N/A | N/A |N/A |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
+| iOS 12.1	| Untested/Unknown | Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.0	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
@@ -228,7 +223,6 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
-
 
 
 # My iPhones iOS 9.3.3 to iOS 9.3.5 Devices 64Bit
@@ -288,7 +282,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 
 # Supported Devices iPad's iOS 11.0 to iOS 11.4.1 Devices 64Bit
-| iOS |iPad Air 2|iPad Air Pro 12.9 1st gen|
+| iOS |
 |----------|----------|----------|
 | iOS 11.0| Untested/Unknown |Untested/Unknown |
 | iOS 11.0.1| Untested/Unknown |Untested/Unknown |
@@ -323,7 +317,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 I would like to say a big thank you to the people that have helped me make this happen:
 
-Allan Kerr the person that makes this tweak in the first place
+Josh Doctors the person that makes this tweak in the first place
 
 more to follow if I get help
 
