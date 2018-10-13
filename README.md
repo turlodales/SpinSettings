@@ -145,17 +145,17 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 
 # Supported Devices iOS 8.0 to iOS 8.3
-| iOS |5S|6/+|iPad Air 2|iPad Air Pro 12.9 1st gen|
-|----------|----------|----------|
-| iOS 8.0  | Untested/Unknown |Untested/Unknown |
-| iOS 8.0.1 	|Untested/Unknown |Untested/Unknown |
-| iOS 8.0.2| Untested/Unknown | Untested/Unknown |
-| iOS 8.1	| Untested/Unknown |Untested/Unknown |
-| iOS 8.1.1	| Untested/Unknown |Untested/Unknown |
-| iOS 8.1.2	| Untested/Unknown |Untested/Unknown |
-| iOS 8.1.3	| Untested/Unknown |Untested/Unknown |
-| iOS 8.2| working/tested |working/tested |
-| iOS 8.3	| Untested/Unknown |Untested/Unknown |
+| iOS |5S|6/+|iPad Air 2|
+|----------|----------|----------|----------|
+| iOS 8.0  | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.0.1 	|Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.0.2| Untested/Unknown | Untested/Unknown |Untested/Unknown |
+| iOS 8.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.1.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.1.2	| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.1.3	| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.2| working/tested |working/tested |working/tested |
+| iOS 8.3	| Untested/Unknown |Untested/Unknown |Untested/Unknown |
 
 
 # Supported Devices iOS 9.0 to iOS 9.3.5
