@@ -192,7 +192,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iOS 10.0.3	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 10.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 10.1.1| N/A |N/A |N/A |
-| iOS 10.2|| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown 
+| iOS 10.2|| Untested/Unknown |Untested/Unknown |Working/ |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown 
 |iOS 10.2.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 |iOS 10.3	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 |iOS 10.3.1  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
