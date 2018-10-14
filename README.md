@@ -160,7 +160,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 # Supported Devices iOS 9.0 to iOS 9.3.5
 | iOS |5S|6/+|6S/+|SE|iPad Air 2|iPad Air Pro 12.9 1st gen|
-|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|----------|
 | iOS 9.0  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 9.0.1 	| N/A | N/A |N/A |Untested/Unknown |
 | iOS 9.0.2	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |
@@ -185,7 +185,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 # Supported Devices iOS 10.0 to iOS 10.3.3
 | iOS |5S|6/+|6S/+|SE|7/+|8/+|X|iPad Air 2|iPad Air Pro 12.9 1st gen|
-|----------|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | iOS 10.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 10.0.1	| N/A | N/A |N/A |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 10.0.2	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
