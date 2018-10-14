@@ -30,11 +30,11 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iOS |4| 4S|5|5C|
 |----------|----------|----------|----------|----------|
 | iOS 7.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.0.1	| N/A | N/A |N/A |Untested/Unknown |
+| iOS 7.0.1	| N/A | N/A |N/A |N/A |
 | iOS 7.0.2	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 7.0.3	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 7.0.4	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.0.5	| N/A |N/A |N/A |
+| iOS 7.0.5	| N/A |N/A |N/A |N/A |
 | iOS 7.0.6	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 7.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 7.1.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
@@ -79,7 +79,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iOS 10.0.1 | Untested/Unknown |Untested/Unknown |
 | iOS 10.0.2 | Untested/Unknown |Untested/Unknown |
 | iOS 10.0.3 | Untested/Unknown |Untested/Unknown |
-| iOS 10.1 | Untested/Unknown | Working/Tested|
+| iOS 10.1 | Untested/Unknown | Untested/Unknown|
 | iOS 10.1.1 | Untested/Unknown |Untested/Unknown |
 | iOS 10.2| Untested/Unknown |Untested/Unknown |
 | iOS 10.2.1| Untested/Unknown |Untested/Unknown |
