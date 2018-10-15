@@ -25,51 +25,56 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPhone 5 | iOS 9.3.3 |
 | iPhone 5C | iOS 9.3.3 |
 
+# Not Supported 32bit Devices Yet (as i dont have)
+| Device | Supports |
+|---------|----------|
+| iPod Touch 5 | Untested/Unknown |
+
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
-| iOS |4| 4S|5|5C|
-|----------|----------|----------|----------|----------|
-| iOS 7.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.0.1	| N/A | N/A |N/A |N/A |
-| iOS 7.0.2	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.0.3	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.0.4	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.0.5	| N/A |N/A |N/A |N/A |
-| iOS 7.0.6	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.1.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 7.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS |4| 4S|5|5C|iPod Touch 5 |
+|----------|----------|----------|----------|----------|----------|
+| iOS 7.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.1	| No JB | No JB |No JB |No JB |No JB |
+| iOS 7.0.2	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.3	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.4	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.5	| No JB |No JB |No JB |No JB |No JB |
+| iOS 7.0.6	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.1.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 
 
 # Supported Devices iOS 8.0 to iOS 8.3
-| iOS |4S|5|5C|
-|----------|----------|----------|----------|
-| iOS 8.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.0.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.0.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1  | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1.3 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.2 | Working/Tested  |Untested/Unknown |Untested/Unknown |
-| iOS 8.3| Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS |4S|5|5C|iPod Touch 5 |
+|----------|----------|----------|----------|----------|
+| iOS 8.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.0.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.0.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.1  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.1.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.1.3 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.2 | Working/Tested  |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 8.3| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 
 
 # Supported Devices iOS 9.0 to iOS 9.3.5
-| iOS |4S|5|5C|
-|----------|----------|----------|----------|
-| iOS 9.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.0.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.0.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.1  | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.2 | Working/Tested | Untested/Unknown |Untested/Unknown |
-| iOS 9.2.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.3| Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.3.1| Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.3.2| Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.3.3| Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.3.4| Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 9.3.5| working/tested |Untested/Unknown|Untested/Unknown |
+| iOS |4S|5|5C|iPod Touch 5 |
+|----------|----------|----------|----------|----------|
+| iOS 9.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.0.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.0.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.1  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.2 | Working/Tested | Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.2.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.3| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.3.1| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.3.2| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.3.3| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.3.4| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 9.3.5| working/tested |Untested/Unknown|Untested/Unknown |Untested/Unknown |
 
 
 # Supported Devices iOS 10.0 to iOS 10.3.3
@@ -100,17 +105,13 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPad Air 2 | iOS 9.3.3 |
 
 
-# Planned Supported Devices above iOS 10
+# Planned Supported Devices 
 | Device | Supports |
 |---------|----------|
 | iPhone 5C | planned |
 | iPhone 5S | planned |
-| iPhone 6/+ | planned |
 | iPhone 6S/+ | planned |
-| iPhone 7/+ | planned |
-| iPhone SE | planned |
 | Apple TV 4 | planned |
-| Apple TV 4K | planned |
 
 
 # Not Supported Devices Yet as i dont have
@@ -125,6 +126,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPhone XS | Untested/Unknown  |
 | iPhone XS Max | Untested/Unknown  |
 | iPad Mini 4 | Untested/Unknown  |
+| iPod Touch 5 | Untested/Unknown |
 | iPod Touch 6 | Untested/Unknown | 
 
 
