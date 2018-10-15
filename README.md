@@ -15,6 +15,32 @@ why am i putting is on github:
 
 for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved.
 
+
+# Not Supported Devices Yet above iOS 10
+| Device | Staus |
+|---------|----------|
+| iPhone 5 | iOS 9.3.3 |
+| iPhone 5C | working |
+| iPhone 5S | iOS 9.3.3 |
+| iPhone 6 | planned |
+| iPhone 6+ | planned |
+| iPhone SE | Planned |
+| iPhone 6S | iOS 9.3.3 |
+| iPhone 6S+ | iOS 9.3.3 |
+| iPhone 7 | planned |
+| iPhone 7+ | planned |
+| iPhone 8 | planned |
+| iPhone 8+ | planned |
+| iPhone X | planned |
+| iPhone XR | planned |
+| iPhone XS | planned |
+| iPhone XS Max | planned |
+| iPad Mini 4 | planned |
+| iPad Air 2 | Untested/Unknown |
+| iPod Touch 5 | Untested/Unknown |
+| iPod Touch 6 | planned |
+| apple tv 4 | planned |
+
 # Devices 32Bit
 
 # Supported Devices 32Bit
@@ -220,17 +246,6 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
-
-
-# Not Supported Devices Yet above iOS 10
-| Device | Supports |
-|---------|----------|
-| iPhone 5S | Untested/Unknown |
-| iPhone 5C | Untested/Unknown |
-| iPhone 6S/+ | Untested/Unknown |
-| iPhone 8+ | Untested/Unknown |
-| iPad Air 2 | Untested/Unknown |
-| iPad Air Pro 12.9 | Untested/Unknown |
 
 
 # Supported Devices iPad's iOS 10.0.1 to iOS 10.3.3 Devices 64Bit
