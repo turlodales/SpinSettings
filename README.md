@@ -189,7 +189,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 # Supported Devices iOS 11.0 to iOS 11.4.1 
 | iOS |6|6+|6S|6S+|SE|7|7+|8|8+|X|iPad Air 2|iPad Pro 12.9 1st gen 2015|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | iOS 11.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 11.0.1	| N/A | N/A |N/A |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 | iOS 11.0.2 | Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
