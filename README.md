@@ -222,7 +222,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 # Supported Devices iOS 12.0 to iOS 12.0 
 | iOS |5S|6/+|6S/+|SE|7/+|8/+|X|XR|XS|XS Max|iPad Air 2|iPad Air Pro 12.9 1st gen|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.1	| Untested/Unknown | Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.0	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
