@@ -110,23 +110,25 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 |---------|----------|
 | iPhone 5C | planned |
 | iPhone 5S | planned |
-| iPhone 6S/+ | planned |
+| iPhone 6S+ | planned |
+| iPhone 8+ | planned 
 | Apple TV 4 | planned |
 
 
-# Not Supported Devices Yet as i dont have
+# Not Supported 64bit Devices Yet as i dont have
 | Device | Supports |
 |---------|----------|
 | iPhone SE | Untested/Unknown  |
-| iPhone 6/+ | Untested/Unknown  |
-| iPhone 7/+ | Untested/Unknown |
+| iPhone 6 | Untested/Unknown  |
+| iPhone 6+ | Untested/Unknown  |
+| iPhone 7 | Untested/Unknown |
+| iPhone 7+ | Untested/Unknown  |
 | iPhone 8 | Untested/Unknown |
 | iPhone X | Untested/Unknown  |
 | iPhone XR | Untested/Unknown  |
 | iPhone XS | Untested/Unknown  |
 | iPhone XS Max | Untested/Unknown  |
 | iPad Mini 4 | Untested/Unknown  |
-| iPod Touch 5 | Untested/Unknown |
 | iPod Touch 6 | Untested/Unknown | 
 
 
