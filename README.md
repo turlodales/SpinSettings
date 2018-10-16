@@ -151,9 +151,15 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
-| iOS |5S|
-|----------|----------|
-| iOS 7.0 | Untested/Unknown |
+|iOS |4|4S|5|5C|5S|iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Air|iPad Mini 1|iPad Mini 2|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 7.0|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+
+
+
+
+
+
 | iOS 7.0.1	| N/A | 
 | iOS 7.0.2	| Untested/Unknown | 
 | iOS 7.0.3	| Untested/Unknown | 
@@ -166,6 +172,31 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 
 # Supported Devices iOS 8.0 to iOS 8.3
+
+
+iPhone 4S
+iPhone 5
+iPhone 5c
+iPhone 5s
+iPhone 6
+iPhone 6 Plus
+iPod Touch 5
+iPod Touch 6
+iPad 2
+iPad 3
+iPad 4
+iPad Air
+iPad Air 2
+iPad Mini 1
+iPad Mini 2
+iPad Mini 3
+
+
+
+
+
+
+
 | iOS |5S|6|6+|iPad Air 2|
 |----------|----------|----------|----------|----------|
 | iOS 8.0  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
@@ -180,6 +211,37 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 
 # Supported Devices iOS 9.0 to iOS 9.3.5
+
+iPhone 4S
+iPhone 5
+iPhone 5c
+iPhone 5s
+iPhone 6
+iPhone 6 Plus
+iPhone 6s
+iPhone 6s Plus
+iPhone SE
+iPod Touch 5
+iPod Touch 6
+iPad 2
+iPad 3
+iPad 4
+iPad Air
+iPad Air 2
+iPad Pro (12.9 inch)
+iPad Pro (9.7 inch)
+iPad Mini 1
+iPad Mini 2
+iPad Mini 3
+iPad Mini 4
+
+
+
+
+
+
+
+
 | iOS |5S|6|6+|6S|6S+|SE|iPad Air 2|iPad Pro 12.9 1st gen 2015|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | iOS 9.0  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |N/A |
@@ -197,6 +259,39 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 
 # Supported Devices iOS 10.0 to iOS 10.3.3
+
+iPhone 5
+iPhone 5c
+iPhone 5s
+iPhone 6
+iPhone 6 Plus
+iPhone 6s
+iPhone 6s Plus
+iPhone SE
+iPhone 7
+iPhone 7 Plus
+iPod Touch 6
+iPad 4
+iPad 5
+iPad Air
+iPad Air 2
+iPad Pro (12.9 inch)
+iPad Pro (9.7 inch)
+iPad Pro (12.9 inch, 2nd gen)
+iPad Pro (10.5 inch)
+iPad Mini 2
+iPad Mini 3
+iPad Mini 4
+
+
+
+
+
+
+
+
+
+
 | iOS |5S|6|6+|6S|6S+|SE|7|7+|8|8+|iPad Air 2|iPad Pro 12.9 1st gen 2015|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | iOS 10.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
@@ -214,6 +309,43 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 
 # Supported Devices iOS 11.0 to iOS 11.4.1 
+
+iPhone 5s
+iPhone 6
+iPhone 6 Plus
+iPhone 6s
+iPhone 6s Plus
+iPhone SE
+iPhone 7
+iPhone 7 Plus
+iPhone 8
+iPhone 8 Plus
+iPhone X
+iPod Touch 6
+iPad 5
+iPad 6
+iPad Air
+iPad Air 2
+iPad Pro (12.9 inch)
+iPad Pro (9.7 inch)
+iPad Pro (12.9 inch, 2nd gen)
+iPad Pro (10.5 inch)
+iPad Mini 2
+iPad Mini 3
+iPad Mini 4
+
+
+
+
+
+
+
+
+
+
+
+
+
 | iOS |6|6+|6S|6S+|SE|7|7+|8|8+|X|iPad Air 2|iPad Pro 12.9 1st gen 2015|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | iOS 11.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
