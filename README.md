@@ -181,42 +181,17 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 
 # Supported Devices iOS 8.0 to iOS 8.3
-
-
-iPhone 4S
-iPhone 5
-iPhone 5c
-iPhone 5s
-iPhone 6
-iPhone 6 Plus
-iPod Touch 5
-iPod Touch 6
-iPad 2
-iPad 3
-iPad 4
-iPad Air
-iPad Air 2
-iPad Mini 1
-iPad Mini 2
-iPad Mini 3
-
-
-
-
-
-
-
-| iOS |5S|6|6+|iPad Air 2|
-|----------|----------|----------|----------|----------|
-| iOS 8.0  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.0.1 	|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.0.2| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1.2	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.1.3	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-| iOS 8.2| working/tested |Untested/Unknown |working/tested |working/tested |
-| iOS 8.3	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS|4S|5|5C|5S|6|6+|iPod Touch 5|iPod Touch 6|iPad 2|iPad 3|iPad 4|iPad Air|iPad Air 2|iPad Mini 1|iPad Mini 2|iPad Mini 3|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 8.0|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.0.1|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.0.2|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.1|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.1.1|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.1.2|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.1.3|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.2|working/Tested |Untested/Unknown|Untested/Unknown|working/Tested |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.3|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
 
 
 # Supported Devices iOS 9.0 to iOS 9.3.5
