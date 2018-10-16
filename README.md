@@ -73,18 +73,18 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iOS 7.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
-|iOS |4|4S|5|5C|5S|iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Air|iPad Mini 1|iPad Mini 2|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 7.0|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS |4|4S|5|5C|iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Air|iPad Mini 1|iPad Mini 2|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 7.0|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 |iOS 7.0.1|No JB|No JB|No JB|Untested/Unknown |Untested/Unknown |No JB|No JB|No JB|No JB|No JB|No JB|No JB|
-|iOS 7.0.2|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.0.3|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.0.2|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.0.3|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 |iOS 7.0.4|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.0.5|No JB|No JB|No JB|Untested/Unknown |Untested/Unknown |No JB|No JB|No JB|No JB|No JB|No JB|No JB|
-|iOS 7.0.6|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.1|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.1.1|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.1.2|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.0.5|No JB|No JB|No JB|Untested/Unknown |No JB|No JB|No JB|No JB|No JB|No JB|No JB|
+|iOS 7.0.6|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.1|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.1.1|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.1.2|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 
 
 
