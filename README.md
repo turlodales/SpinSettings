@@ -235,14 +235,8 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 # Supported Devices iOS 12.0 to iOS 12.0 
 |iOS|5s|6|6+|6S|6S+|SE|7|7+|8|8+|X|XR|XS|XS Max|iPod Touch 6|iPad 5|iPad 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch)|iPad Pro (9.7 inch)|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch)|iPad Mini 2|iPad Mini 3|iPad Mini 4|
-
-| ---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |
-
-| iOS 12.0| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-
-| iOS 12.1| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-
-| iOS 12.1| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |---------- |
+|iOS 12.0|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
 
 
 # Supported Devices iPad's iOS 10.0.1 to iOS 10.3.3 Devices 64Bit
