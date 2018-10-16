@@ -19,7 +19,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 # Not Supported Devices Yet above iOS 10
 | Device | Staus |
 |---------|----------|
-| iPhone 5 | iOS 9.3.3 |
+| iPhone 5 | planned |
 | iPhone 5C | working |
 | iPhone 5S | iOS 9.3.3 |
 | iPhone 6 | planned |
@@ -234,18 +234,27 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 
 # Supported Devices iOS 12.0 to iOS 12.0 
-| iOS |5S|6|6+|6S|6S+|SE|7|7+|8|8+|X|XR|XS|XS Max|iPad Air 2|iPad Pro 12.9 1st gen 2015|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
-| iOS 12.1	| Untested/Unknown | Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
-| iOS 12.0	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
-| iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
-| iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
-|iOS 12.0 | N/A |N/A |N/A |Untested/Unknown |Untested/Unknown |Untested/Unknown
-| iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
-| iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
-| iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
-| iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
+| iOS |5s|6|6+|6S|6S+|SE|7|iPhone 7 Plus|iPhone 8|iPhone 8 Plus|iPhone X|iPhone XR|
+iPhone XS|iPhone XS Max|iPod Touch 6|iPad 5|iPad 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch)|iPad Pro (9.7 inch)|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch)|iPad Mini 2|iPad Mini 3|iPad Mini 4|
+
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| iOS 12.0| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+| iOS 12.1| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+| iOS 12.1| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown| Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+
+
+
+
+
+
+
+|5s| iPhone 6|iPhone 6 Plus|iPhone 6s|iPhone 6s Plus|iPhone SE|iPhone 7|iPhone 7 Plus|iPhone 8|iPhone 8 Plus|iPhone X|iPhone XR|
+iPhone XS|iPhone XS Max|iPod Touch 6|iPad 5|iPad 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch)|iPad Pro (9.7 inch)|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch)|iPad Mini 2|iPad Mini 3|iPad Mini 4|
+
+
+|5s| iPhone 6|iPhone 6 Plus|iPhone 6s|iPhone 6s Plus|iPhone SE|iPhone 7|iPhone 7 Plus|iPhone 8|iPhone 8 Plus|iPhone X|iPhone XR|
+iPhone XS|iPhone XS Max|iPod Touch 6|iPad 5|iPad 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch)|iPad Pro (9.7 inch)|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch)|iPad Mini 2|iPad Mini 3|iPad Mini 4|
+
 
 
 # Supported Devices iPad's iOS 10.0.1 to iOS 10.3.3 Devices 64Bit
