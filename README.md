@@ -46,7 +46,6 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 # Supported Devices 32Bit
 | Device | Supports |
 |---------|----------|
-
 | iPhone 4S | iOS 9.3.3/9.3.5 |
 | iPhone 5 | iOS 9.3.3 |
 | iPhone 5C | iOS 9.3.3 |
