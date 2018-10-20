@@ -175,7 +175,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 # Supported Devices iOS 8.0 to iOS 8.3
 |iOS|5S|6|6+|iPod Touch 6|iPad Air|iPad Air 2|iPad Mini 2|iPad Mini 3|
-|----------|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 
 |iOS 8.0|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
 
