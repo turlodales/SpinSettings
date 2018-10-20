@@ -25,10 +25,10 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPhone 6  | planned   | iPad Mini 4 | planned |- | - |- | - |
 | iPhone 6+ | planned   | iPad Air    | planned |- | - |- | - |
 | iPhone SE | Planned   |iPad Air 2   | planned |- | - |- | - |
-| iPhone 6S | iOS 9.3.3 |ipad 2       | planned |- | - |- | - |
-| iPhone 6S+| iOS 9.3.3 |ipad 3       | planned |- | - |- | - |
-| iPhone 7  | planned   |iPad 4       | planned |- | - |- | - |
-| iPhone 7+ | planned   |iPad 2017    | planned |- | - |- | - |
+| iPhone 6S | iOS 9.3.3 |ipad Pro 9.7 1st gen| planned |- | - |- | - |
+| iPhone 6S+| iOS 9.3.3 |ipad 2017       | planned |- | - |- | - |
+| iPhone 7  | planned   |iPad Pro (2nd, 12.9)       | planned |- | - |- | - |
+| iPhone 7+ | planned   |iPad Pro (2nd, 10.5)    | planned |- | - |- | - |
 | iPhone 8  | planned   |iPad 2018    | planned |- | - |- | - |
 | iPhone 8+ | planned   |- |- |- | - |- | - |
 | iPhone X  | planned   |- | -|- | - |- | - |
@@ -36,6 +36,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPhone XS | planned   |- | -|- | - |- | - |
 | iPhone XS Max | planned |- | - |- | - |
 
+Note i do have a iPad Air 2 but broken screen but running 10.2
 
 # Devices 32Bit
 
