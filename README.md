@@ -129,44 +129,33 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | Apple TV 4|planned|
 
 # Not Supported 64bit Devices  (MAY Work But NOT Tested as i dont have yet)
-| Device | Supports |
-|---------|----------|
-| iPhone SE | Planned |
-| iPhone 6 | planned |
-| iPhone 6+ | planned |
-| iPhone 7 | planned |
-| iPhone 7+ | planned |
-| iPhone 8 | planned |
-| iPhone X | planned |
-| iPhone XR | planned |
-| iPhone XS | planned |
+| Device | Supports |Device | Supports |Device | Supports |
+|---------|----------|---------|----------|---------|----------|
+| iPhone SE | Planned | iPad Air | planned |iPod Touch 6 | planned |
+| iPhone 6  | planned | iPad Mini 2 | planned |
+| iPhone 6+ | planned | iPad Mini 3 | planned |
+| iPhone 7  | planned | iPad Mini 4 | planned |
+| iPhone 7+ | planned | iPad 2017 | planned |
+| iPhone 8  | planned |iPad Pro (9.7 inch 1st gen|planned|
+| iPhone X  | planned | iPad Pro (12.9 inch) 2nd gen|planned|
+| iPhone XR | planned | iPad Pro (10.5 inch) 2nd gen|planned |
+| iPhone XS | planned | iPad 2018 | planned |
 | iPhone XS Max | planned |
-| iPod Touch 6 | planned |
-| iPad Mini 2 | planned |
-| iPad Mini 3 | planned |
-| iPad Mini 4 | planned |
-| iPad 3 | planned |
-| iPad 4 | planned |
-| iPad Air | planned |
-| iPad Pro (9.7 inch 1st gen|planned|
-| iPad Pro (12.9 inch) 2nd gen|planned|
-| iPad Pro (9.7 inch) 2nd gen|planned |
-| Apple TV 4|planned|
 
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
 |iOS |5S|iPad Air|iPad Mini 2|
 |----------|----------|----------|----------|
-|iOS 7.0  |Untested/Unknown |- |-|
-|iOS 7.0.1|No JB|-|-|
-|iOS 7.0.2|Untested/Unknown |- |-|
-|iOS 7.0.3|Untested/Unknown |Untested/Unknown |Untested/Unknown|
-|iOS 7.0.4|Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.0.5|No JB|No JB|No JB|
-|iOS 7.0.6|Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.1  |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.1.1|Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.1.2|Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.0   |Untested/Unknown |- |-|
+|iOS 7.0.1 |No JB|-|-|
+|iOS 7.0.2 |Untested/Unknown |- |-|
+|iOS 7.0.3 |Untested/Unknown |Untested/Unknown |Untested/Unknown|
+|iOS 7.0.4 |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.0.5 |No JB|No JB|No JB|
+|iOS 7.0.6 |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.1   |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.1.1 |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.1.2 |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 
 
 # Supported Devices iOS 8.0 to iOS 8.3
