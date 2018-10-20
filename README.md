@@ -19,22 +19,22 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 # Not Supported Devices Yet above iOS 10
 | Device | Staus | Device | Staus | Device | Staus | Device | Staus |
 |---------|----------|---------|----------|---------|----------|---------|----------|
-| iPhone 5 | planned | iPad Mini 1 | planned | iPod Touch 5 | planned |Apple TV4 | planned |
-| iPhone 5C | working | iPad Mini 2 | planned | iPod Touch 6 | planned |Apple TV 4K | planned |
-| iPhone 5S | iOS 9.3.3 | iPad Mini 3 | planned |
-| iPhone 6 | planned | iPad Mini 4 | planned |
-| iPhone 6+ | planned | iPad Air  | planned|
-| iPhone SE | Planned |iPad Air 2 | planned|
-| iPhone 6S | iOS 9.3.3 |ipad 2| planned|
-| iPhone 6S+ | iOS 9.3.3 |ipad 3| planned|
-| iPhone 7 | planned |iPad 4| planned|
-| iPhone 7+ | planned |iPad 2017| planned|
-| iPhone 8 | planned |iPad 2018| planned|
-| iPhone 8+ | planned |
-| iPhone X | planned |
-| iPhone XR | planned |
-| iPhone XS | planned |
-| iPhone XS Max | planned |
+| iPhone 5  | planned   | iPad Mini 1 | planned | iPod Touch 5 | planned |Apple TV4 | planned |
+| iPhone 5C | working   | iPad Mini 2 | planned | iPod Touch 6 | planned |Apple TV 4K | planned |
+| iPhone 5S | iOS 9.3.3 | iPad Mini 3 | planned |- | - |- | - |
+| iPhone 6  | planned   | iPad Mini 4 | planned |- | - |- | - |
+| iPhone 6+ | planned   | iPad Air    | planned |- | - |- | - |
+| iPhone SE | Planned   |iPad Air 2   | planned |- | - |- | - |
+| iPhone 6S | iOS 9.3.3 |ipad 2       | planned |- | - |- | - |
+| iPhone 6S+| iOS 9.3.3 |ipad 3       | planned |- | - |- | - |
+| iPhone 7  | planned   |iPad 4       | planned |- | - |- | - |
+| iPhone 7+ | planned   |iPad 2017    | planned |- | - |- | - |
+| iPhone 8  | planned   |iPad 2018    | planned |- | - |- | - |
+| iPhone 8+ | planned   |- |- |- | - |- | - |
+| iPhone X  | planned   |- | -|- | - |- | - |
+| iPhone XR | planned   |- | -|- | - |- | - |
+| iPhone XS | planned   |- | -|- | - |- | - |
+| iPhone XS Max | planned |- | - |- | - |
 
 
 # Devices 32Bit
