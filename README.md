@@ -123,8 +123,10 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 |---------|----------|
 | iPhone 5S | iOS 9.3.3 |
 | iPhone 6S/+ | iOS 9.3.3 |
+| iPhone 8+| Planned |
 | iPad Air 2 | iOS 9.3.3 |
 | iPad Pro (12.9 inch) 1st gen |10.2|
+| Apple TV 4|planned|
 
 # Not Supported 64bit Devices  (MAY Work But NOT Tested as i dont have yet)
 | Device | Supports |
@@ -139,18 +141,16 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPhone XR | planned |
 | iPhone XS | planned |
 | iPhone XS Max | planned |
+| iPod Touch 6 | planned |
 | iPad Mini 2 | planned |
 | iPad Mini 3 | planned |
 | iPad Mini 4 | planned |
 | iPad 3 | planned |
 | iPad 4 | planned |
 | iPad Air | planned |
-| iPod Touch 6 | planned |
-| iPad Pro (12.9 inch)|planned|
-| iPad Pro (9.7 inch |planned|
+| iPad Pro (9.7 inch 1st gen|planned|
 | iPad Pro (12.9 inch) 2nd gen|planned|
 | iPad Pro (9.7 inch) 2nd gen|planned |
-| iPod Touch 6|planned|
 | Apple TV 4|planned|
 
 
@@ -199,8 +199,10 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 |iOS 9.3.5|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
 
 # Supported Devices iOS 10.0 to iOS 10.3.3
-|iOS|5|5C|5S|6|6+|6S|6S+|SE|7|7+|iPod Touch 6|iPad 4|iPad 5|iPad Air|iPad Air 2|iPad Pro (12.9 inch)|iPad Pro (9.7 inch)|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad Mini 2|iPad Mini 3|iPad Mini 4|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS|5S|6|6+|6S|6S+|SE|7|7+|iPod Touch 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad Mini 2|iPad Mini 3|iPad Mini 4|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+
+
 |iOS 10.0|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
 |iOS 10.0.1|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
 |iOS 10.0.2|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
