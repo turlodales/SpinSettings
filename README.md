@@ -176,9 +176,9 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 # Supported Devices iOS 8.0 to iOS 8.3
 |iOS       |5S        |6         |6+        |iPod Touch 6|iPad Air|iPad Air 2|iPad Mini 2|iPad Mini 3|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 8.0   |Untested  |Untested  |Untested  |       -  |Untested  |Untested  |Untested  |-  |
-|iOS 8.0.1 |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |-  |
-|iOS 8.0.2 |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |-  |
+|iOS 8.0   |Untested  |Untested  |Untested  |       -  |Untested  |-         |Untested  |-  |
+|iOS 8.0.1 |Untested  |Untested  |Untested  |-         |Untested  |-         |Untested  |-  |
+|iOS 8.0.2 |Untested  |Untested  |Untested  |-         |Untested  |-         |Untested  |-  |
 |iOS 8.1   |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |Untested  |
 |iOS 8.1.1 |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |Untested  |
 |iOS 8.1.2 |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |Untested  |
@@ -190,9 +190,9 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 
 
 # Supported Devices iOS 9.0 to iOS 9.3.5
-|iOS       |5S |6  |6+ |6S |6S+|SE|iPod Touch 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch)1st gen|iPad Mini 2|iPad Mini 3|iPad Mini 4|Apple TV 4|
+|iOS       |5S |6  |6+ |6S |6S+|SE|iPod Touch 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch)1st gen|iPad Pro (9.7 inch)1st gen|iPad Mini 2|iPad Mini 3|iPad Mini 4|Apple TV 4|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 9.0   |NO |NO |NO |NO |NO |-  |NO |NO |NO |NO |-  |NO |NO |NO |NO|
+|iOS 9.0   |NO |NO |NO |NO |NO |-  |NO         |NO      |       NO |                        NO |-                       |NO |NO |NO |NO|
 |iOS 9.0.1 |NO |NO |NO |NO |NO |-  |NO |NO |NO |NO |-  |NO |NO |NO |NO|
 |iOS 9.0.2 |NO |NO |NO |NO |NO |-  |NO |NO |NO |NO |NO |  -|NO |NO |NO|
 |iOS 9.1   |NO |NO |NO |NO |NO |-  |NO |NO |NO |NO |NO |-  |NO |NO |NO|
