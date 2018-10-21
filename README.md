@@ -115,7 +115,7 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 | iOS 9.3.5 | working|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 
 # Supported Devices iOS 10.0 to iOS 10.3.3
-|iOS|5|5C|iPod Touch 5|iPad 4|
+|iOS         |       5| 5C     |iPod Touch 5|iPad 4|
 |----------|----------|----------|----------|----------|
 | iOS 10.0   | Untested|Untested|Untested|Untested|
 | iOS 10.0.1 | Untested|Untested|Untested|Untested|
@@ -146,16 +146,16 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 | Device | Supports |Device | Supports |Device | Supports |
 |---------|----------|---------|----------|---------|----------|
 | iPhone SE | Planned | iPad Air | planned |iPod Touch 6 | planned |
-| iPhone 6  | planned | iPad Mini 2 | planned |
-| iPhone 6+ | planned | iPad Mini 3 | planned |
-| iPhone 6S | planned | iPad Mini 4 | planned |
-| iPhone 7  | planned | iPad 2017 | planned |
-| iPhone 7+ | planned | iPad Pro (9.7 inch 1st gen | planned |
-| iPhone 8  | planned | iPad Pro (12.9 inch) 2nd gen|planned|
-| iPhone X  | planned | iPad Pro (10.5 inch) 2nd gen|planned|
-| iPhone XR | planned | iPad 2018|planned |
-| iPhone XS | planned | 
-| iPhone XS Max | planned |
+| iPhone 6  | planned | iPad Mini 2 | planned |-|-|
+| iPhone 6+ | planned | iPad Mini 3 | planned |-|-|
+| iPhone 6S | planned | iPad Mini 4 | planned |-|-|
+| iPhone 7  | planned | iPad 2017 | planned |-|-|
+| iPhone 7+ | planned | iPad Pro (9.7 inch 1st gen | planned |-|-|
+| iPhone 8  | planned | iPad Pro (12.9 inch) 2nd gen|planned|-|-|
+| iPhone X  | planned | iPad Pro (10.5 inch) 2nd gen|planned|-|-|
+| iPhone XR | planned | iPad 2018|planned |-|-|
+| iPhone XS | planned | -|-|-|-|
+| iPhone XS Max | planned |-|-|-|-|
 
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
