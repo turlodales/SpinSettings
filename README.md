@@ -7,15 +7,27 @@ This is my own attempted to get reworking my layout is taken form another tweak 
 
 My own plan is to make it work from see below
 
-ios 7/8/9/10/11/12/ and so on
+- [x] iOS 7  
+- [x] iOS 8  
+- [x] iOS 9 
+- [x] iOS 10 
+- [ ] iOS 11
+- [ ] iOS 12
 
-- [x] iOS 7 - [x] iOS 8 - [x] iOS 9 - [x] iOS 10 - [ ] iOS 11 - [ ] iOS 12
-
-a working verson of SpinSettings for  ios 11.0 to 12.0
+my plain is to make a working verson of SpinSettings for ios 11.0 to 12.0
 
 why am i putting is on github:
 
 for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved.
+
+- [ ] step 1 get read me finished 
+- [ ] step 2 start working on the tweak
+- [ ] step 3 get it working on my own devices
+- [ ] step 4 get new devices or ask for bata testers
+- [ ] step 5 fix bugs 
+- [ ] step 6 try and make 64bit only verson
+- [ ] step 7 relise to the public
+- [ ] step 8 update when needed 
 
 
 # Not Supported Devices Yet above iOS 10
