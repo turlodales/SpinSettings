@@ -74,7 +74,7 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 |iOS |4|4S|5|5C|iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Mini 1|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |iOS 7.0|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.0.1|No JB|No JB|No JB|No JB |No JB|No JB|No JB|No JB|No JB|No JB|
+|iOS 7.0.1|No JB|No JB|No JB|Untested/Unknown |No JB|No JB|No JB|No JB|No JB|No JB|
 |iOS 7.0.2|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 |iOS 7.0.3|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 |iOS 7.0.4|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
