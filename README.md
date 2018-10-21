@@ -20,6 +20,7 @@ why am i putting is on github:
 
 for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved.
 
+My own road map
 - [ ] step 1 get read me finished 
 - [ ] step 2 start working on the tweak
 - [ ] step 3 get it working on my own devices
@@ -39,7 +40,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPhone 6  | planned   | iPad Mini 4 | planned |- | - |- | - |
 | iPhone 6+ | planned   | iPad Air    | planned |- | - |- | - |
 | iPhone SE | Planned   |iPad Air 2   | planned |- | - |- | - |
-| iPhone 6S | iOS 9.3.3 |ipad Pro 9.7 1st gen| planned |- | - |- | - |
+| iPhone 6S | iOS 9.3.3 |ipad Pro 9.7 1st gen| Planned |- | - |- | - |
 | iPhone 6S+| iOS 9.3.3 |ipad 2017    | planned |- | - |- | - |
 | iPhone 7  | planned   |iPad Pro (2nd, 12.9)    | planned |- | - |- | - |
 | iPhone 7+ | planned   |iPad Pro (2nd, 10.5)    | planned |- | - |- | - |
@@ -116,18 +117,18 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 # Supported Devices iOS 10.0 to iOS 10.3.3
 |iOS|5|5C|iPod Touch 5|iPad 4|
 |----------|----------|----------|----------|----------|
-| iOS 10.0   | Untested|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 10.0.1 | Untested|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 10.0.2 | Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 10.0.3 | Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 10.1   | Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 10.1.1 | Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 10.2   | Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 10.2.1 | Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 10.3   | Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 10.3.1 | Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 10.3.2 | Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 10.3.3 | Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+| iOS 10.0   | Untested|Untested|Untested|Untested|
+| iOS 10.0.1 | Untested|Untested|Untested|Untested|
+| iOS 10.0.2 | Untested|Untested|Untested|Untested|
+| iOS 10.0.3 | Untested|Untested|Untested|Untested|
+| iOS 10.1   | Untested|Untested|Untested|Untested|
+| iOS 10.1.1 | Untested|Untested|Untested|Untested|
+| iOS 10.2   | Untested|Untested|Untested|Untested|
+| iOS 10.2.1 | Untested|Untested|Untested|Untested|
+| iOS 10.3   | Untested|Untested|Untested|Untested|
+| iOS 10.3.1 | Untested|Untested|Untested|Untested|
+| iOS 10.3.2 | Untested|Untested|Untested|Untested|
+| iOS 10.3.3 | Untested|Untested|Untested|Untested|
 
 # Devices 64Bit
 
@@ -147,104 +148,105 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 | iPhone SE | Planned | iPad Air | planned |iPod Touch 6 | planned |
 | iPhone 6  | planned | iPad Mini 2 | planned |
 | iPhone 6+ | planned | iPad Mini 3 | planned |
-| iPhone 7  | planned | iPad Mini 4 | planned |
-| iPhone 7+ | planned | iPad 2017 | planned |
-| iPhone 8  | planned |iPad Pro (9.7 inch 1st gen|planned|
-| iPhone X  | planned | iPad Pro (12.9 inch) 2nd gen|planned|
-| iPhone XR | planned | iPad Pro (10.5 inch) 2nd gen|planned |
-| iPhone XS | planned | iPad 2018 | planned |
+| iPhone 6S | planned | iPad Mini 4 | planned |
+| iPhone 7  | planned | iPad 2017 | planned |
+| iPhone 7+ | planned | iPad Pro (9.7 inch 1st gen | planned |
+| iPhone 8  | planned | iPad Pro (12.9 inch) 2nd gen|planned|
+| iPhone X  | planned | iPad Pro (10.5 inch) 2nd gen|planned|
+| iPhone XR | planned | iPad 2018|planned |
+| iPhone XS | planned | 
 | iPhone XS Max | planned |
 
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
-|iOS |5S|iPad Air|iPad Mini 2|
+|iOS       |5S        |iPad Air  |iPad Mini 2|
 |----------|----------|----------|----------|
-|iOS 7.0   |Untested/Unknown |- |-|
-|iOS 7.0.1 |No JB|-|-|
-|iOS 7.0.2 |Untested/Unknown |- |-|
-|iOS 7.0.3 |Untested/Unknown |Untested/Unknown |Untested/Unknown|
-|iOS 7.0.4 |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.0.5 |No JB|No JB|No JB|
-|iOS 7.0.6 |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.1   |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.1.1 |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.1.2 |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.0   |Untested  |-         |-|
+|iOS 7.0.1 |No JB     |-         |-|
+|iOS 7.0.2 |Untested  |-         |-|
+|iOS 7.0.3 |Untested  |Untested  |Untested|
+|iOS 7.0.4 |Untested  |Untested  |Untested|
+|iOS 7.0.5 |No JB     |No JB     |No JB|
+|iOS 7.0.6 |Untested  |Untested  |Untested|
+|iOS 7.1   |Untested  |Untested  |Untested|
+|iOS 7.1.1 |Untested  |Untested  |Untested|
+|iOS 7.1.2 |Untested  |Untested  |Untested|
 
 
 # Supported Devices iOS 8.0 to iOS 8.3
-|iOS|5S|6|6+|iPod Touch 6|iPad Air|iPad Air 2|iPad Mini 2|iPad Mini 3|
+|iOS       |5S        |6         |6+        |iPod Touch 6|iPad Air|iPad Air 2|iPad Mini 2|iPad Mini 3|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 8.0  |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.0.1|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.0.2|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.1  |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.1.1|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.1.2|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.1.3|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.2  |working/Tested |Untested/Unknown|Untested/Unknown|working/Tested |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.3  |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.0   |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.0.1 |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.0.2 |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.1   |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.1.1 |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.1.2 |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.1.3 |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.2   |working   |Untested  |Untested  |Untested  |Untested  |working   |Untested  |Untested  |
+|iOS 8.3   |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
 
 # Supported Devices iOS 9.0 to iOS 9.3.5
 |iOS|5S|6|6+|6S|6S+|SE|iPod Touch 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch)1st gen|iPad Mini 2|iPad Mini 3|iPad Mini 4|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 9.0  |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|-|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|-|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 9.0.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|-|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|-|Untested/Unknown|Untested/Unknown|
-|iOS 9.0.2 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|-|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|-|Untested/Unknown|Untested/Unknown|
-|iOS 9.1  |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|-|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|-|Untested/Unknown|Untested/Unknown|
-|iOS 9.2  |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|-|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|-|Untested/Unknown|Untested/Unknown|
-|iOS 9.2.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|-|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|-|Untested/Unknown|Untested/Unknown|
-|iOS 9.3  |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 9.3.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 9.3.2 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 9.3.3 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 9.3.4 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 9.3.5 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 9.0   |Untested|Untested|Untested|Untested|Untested|-|Untested|Untested|Untested|Untested|-|Untested|Untested|Untested|
+|iOS 9.0.1 |Untested|Untested|Untested|Untested|Untested|-|Untested|Untested|Untested|Untested|Untested|-|Untested|Untested|
+|iOS 9.0.2 |Untested|Untested|Untested|Untested|Untested|-|Untested|Untested|Untested|Untested|Untested|-|Untested|Untested|
+|iOS 9.1   |Untested|Untested|Untested|Untested|Untested|-|Untested|Untested|Untested|Untested|Untested|-|Untested|Untested|
+|iOS 9.2   |Untested|Untested|Untested|Untested|Untested|-|Untested|Untested|Untested|Untested|Untested|-|Untested|Untested|
+|iOS 9.2.1 |Untested|Untested|Untested|Untested|Untested|-|Untested|Untested|Untested|Untested|Untested|-|Untested|Untested|
+|iOS 9.3   |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 9.3.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 9.3.2 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 9.3.3 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 9.3.4 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 9.3.5 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 
 # Supported Devices iOS 10.0 to iOS 10.3.3
 |iOS|5S|6|6+|6S|6S+|SE|7|7+|iPod Touch 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad Mini 2|iPad Mini 3|iPad Mini 4|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 10.0 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 10.0.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 10.0.2 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 10.0.3 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 10.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 10.1.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 10.2 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Working/Tested|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 10.2.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 10.3 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 10.3.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 10.3.2 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 10.3.3 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 10.0 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 10.0.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 10.0.2 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 10.0.3 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 10.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 10.1.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 10.2 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 10.2.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 10.3 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 10.3.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 10.3.2 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 10.3.3 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 
 
 # Supported Devices iOS 11.0 to iOS 11.4.1 
 
 |iOS|5S|6|6+|6S|6S+|SE|7|7+|8|8+|X|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 2018|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 11.0 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|-|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 11.0.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 11.0.2 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 11.0.3 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 11.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 11.1.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 11.1.2 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 11.2 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 11.2.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 11.2.2 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 11.2.5 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 11.3 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 11.3.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 11.4 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 11.4.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 11.0 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|-|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 11.0.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 11.0.2 ||Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 11.0.3 ||Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 11.1 ||Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 11.1.1 ||Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 11.1.2 ||Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 11.2 ||Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 11.2.1 ||Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 11.2.2 ||Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 11.2.5 ||Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 11.3 ||Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 11.3.1 ||Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 11.4 ||Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 11.4.1 ||Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 
 
 # Supported Devices iOS 12.0 to iOS 12.0 
 |iOS|5S|6|6+|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 2018|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------- |---------- |---------- |
-|iOS 12.0 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 12.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 12.0.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-12.1 B |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 12.0 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 12.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 12.0.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+12.1 B |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 
 
 I would like to say a big thank you to the people that have helped me make this happen:
