@@ -70,14 +70,14 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
-|iOS |4|4S|5|5C|iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Mini 1|
+|iOS      |4        |4S       |5        |5C       |iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Mini 1|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 7.0|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.0.1|No JB|No JB|No JB|Untested |No JB|No JB|No JB|No JB|No JB|No JB|
+|iOS 7.0  |Untested |Untested |Untested |-        |Untested |Untested |Untested |Untested |Untested |
+|iOS 7.0.1|No JB    |No JB    | No JB   |Untested |No JB    |No JB    |No JB    |No JB    |No JB    |
 |iOS 7.0.2|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
 |iOS 7.0.3|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
 |iOS 7.0.4|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.0.5|No JB|No JB|No JB|Untested |No JB|No JB|No JB|No JB|No JB|
+|iOS 7.0.5|No JB    |No JB    |No JB    |Untested |No JB    |No JB    |No JB    |No JB    |No JB    |
 |iOS 7.0.6|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
 |iOS 7.1  |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
 |iOS 7.1.1|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
@@ -87,16 +87,16 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 # Supported Devices iOS 8.0 to iOS 8.3
 |iOS       |4S        |5         |5C        |iPod Touch 5|iPad 2  |iPad 3    |iPad 4   |iPad Mini 1|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 8.0   | Untested |Untested  |Untested|Untested|-|Untested|Untested|Untested|
-|iOS 8.0.1 | Untested |Untested  |Untested|Untested|-|Untested|Untested|Untested|
-|iOS 8.0.2 | Untested |Untested  |Untested|Untested|-|Untested|Untested|Untested|
-|iOS 8.1   | Untested |Untested  |Untested|Untested|-|Untested|Untested|Untested|
-|iOS 8.1.2 | Untested |Untested  |Untested|Untested|-|Untested|Untested|Untested|
-|iOS 8.1.3 | Untested |Untested  |Untested|Untested|-|Untested|Untested|Untested|
-|iOS 8.2   | working  |Untested  |working |Untested|-|Untested|Untested|Untested|
-|iOS 8.3   | Untested |Untested  |Untested|Untested|Untested|Untested|Untested|
-|iOS 8.4   | Untested |Untested  |Untested|Untested|Untested|Untested|Untested|
-|iOS 8.4.1 | Untested |Untested  |Untested|Untested|Untested|Untested|Untested|
+|iOS 8.0   | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
+|iOS 8.0.1 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
+|iOS 8.0.2 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
+|iOS 8.1   | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
+|iOS 8.1.2 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
+|iOS 8.1.3 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
+|iOS 8.2   | working  |Untested  |working   |Untested  |         -|Untested  |Untested  |Untested|
+|iOS 8.3   | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested|
+|iOS 8.4   | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested|
+|iOS 8.4.1 | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested|
 
 # Supported Devices iOS 9.0 to iOS 9.3.5
 |iOS        |4S      |5       |5C       |iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Mini 1|
@@ -161,7 +161,7 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 # Supported Devices iOS 7.0 to iOS 7.1.2 
 |iOS       |5S        |iPad Air  |iPad Mini 2|
 |----------|----------|----------|----------|
-|iOS 7.0   |Untested  |-         |-|
+|iOS 7.0   |-         |-         |-|
 |iOS 7.0.1 |No JB     |-         |-|
 |iOS 7.0.2 |Untested  |-         |-|
 |iOS 7.0.3 |Untested  |Untested  |Untested|
@@ -176,18 +176,21 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 # Supported Devices iOS 8.0 to iOS 8.3
 |iOS       |5S        |6         |6+        |iPod Touch 6|iPad Air|iPad Air 2|iPad Mini 2|iPad Mini 3|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 8.0   |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
-|iOS 8.0.1 |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
-|iOS 8.0.2 |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
-|iOS 8.1   |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
-|iOS 8.1.1 |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
-|iOS 8.1.2 |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
-|iOS 8.1.3 |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
-|iOS 8.2   |working   |Untested  |Untested  |Untested  |Untested  |working   |Untested  |Untested  |
-|iOS 8.3   |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.0   |Untested  |Untested  |Untested  |       -  |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.0.1 |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.0.2 |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.1   |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.1.1 |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.1.2 |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.1.3 |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.2   |working   |Untested  |Untested  |-         |Untested  |working   |Untested  |Untested  |
+|iOS 8.3   |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.4   |working   |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.4.1 |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |
+
 
 # Supported Devices iOS 9.0 to iOS 9.3.5
-|iOS|5S|6|6+|6S|6S+|SE|iPod Touch 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch)1st gen|iPad Mini 2|iPad Mini 3|iPad Mini 4|
+|iOS       |5S      |6       |   6+   |6S      |6S+     |SE|iPod Touch 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch)1st gen|iPad Mini 2|iPad Mini 3|iPad Mini 4|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |iOS 9.0   |Untested|Untested|Untested|Untested|Untested|-|Untested|Untested|Untested|Untested|-|Untested|Untested|Untested|
 |iOS 9.0.1 |Untested|Untested|Untested|Untested|Untested|-|Untested|Untested|Untested|Untested|Untested|-|Untested|Untested|
