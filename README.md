@@ -9,6 +9,13 @@ My own plan is to make it work from see below
 
 ios 7/8/9/10/11/12/ and so on
 
+- [x] iOS 7
+- [x] iOS 8
+- [x] iOS 9
+- [x] iOS 10
+- [ ] iOS 11
+- [ ] iOS 12
+
 a working verson of SpinSettings for  ios 11.0 to 12.0
 
 why am i putting is on github:
