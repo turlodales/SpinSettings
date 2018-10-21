@@ -198,12 +198,12 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 |iOS 9.1   |NO |NO |NO |NO |NO |NO |NO |-|NO |NO |NO |-|NO |NO |
 |iOS 9.2   |NO |NO |NO |NO |NO |NO |-|NO |NO |NO |-|NO |NO |NO |
 |iOS 9.2.1 |NO |NO |NO |NO |NO |NO |-|NO |NO |NO |-|NO |NO |NO |
-|iOS 9.3   |NO |NO |NO |NO |NO |NO |-|NO |NO |NO |-|NO |NO |NO |
-|iOS 9.3.1 |NO |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-|iOS 9.3.2 |NO |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-|iOS 9.3.3 |NO |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-|iOS 9.3.4 |NO |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-|iOS 9.3.5 |NO |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 9.3   |NO |NO |NO |NO |NO |NO |NO|NO |NO |NO |NO|NO |NO |NO |
+|iOS 9.3.1 |NO |NO |NO |NO |NO |NO |NO |NO|NO|NO|NO|NO|NO|NO|
+|iOS 9.3.2 |NO |NO |NO |NO |NO |NO |NO |NO|NO|NO|NO|NO|NO|NO|
+|iOS 9.3.3 |NO |NO |NO |NO |NO |NO |NO |NO|NO|NO|NO|NO|NO|NO|
+|iOS 9.3.4 |NO |NO |NO |NO |NO |NO |NO |NO|NO|NO|NO|NO|NO|NO|
+|iOS 9.3.5 |NO |NO |NO |NO |NO |NO |NO |NO|NO|NO|NO|NO|NO|NO|
 
 # Supported Devices iOS 10.0 to iOS 10.3.3
 |iOS|5S|6|6+|6S|6S+|SE|7|7+|iPod Touch 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad Mini 2|iPad Mini 3|iPad Mini 4|
