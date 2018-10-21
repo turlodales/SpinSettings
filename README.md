@@ -98,26 +98,26 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 |iOS 8.4.1 | Untested |Untested  |Untested|Untested|Untested|Untested|Untested|
 
 # Supported Devices iOS 9.0 to iOS 9.3.5
-|iOS|4S|5|5C|iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Mini 1|
+|iOS        |4S      |5       |5C       |iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Mini 1|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| iOS 9.0   |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 9.0.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 9.0.2 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 9.1   |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 9.2   |Working/Tested |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 9.2.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 9.3   |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 9.3.1 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 9.3.2 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 9.3.3 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 9.3.4 |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 9.3.5 | working/tested |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+| iOS 9.0   |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+| iOS 9.0.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+| iOS 9.0.2 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+| iOS 9.1   |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+| iOS 9.2   |Working |Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+| iOS 9.2.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+| iOS 9.3   |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+| iOS 9.3.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+| iOS 9.3.2 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+| iOS 9.3.3 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+| iOS 9.3.4 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+| iOS 9.3.5 | working|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 
 # Supported Devices iOS 10.0 to iOS 10.3.3
 |iOS|5|5C|iPod Touch 5|iPad 4|
 |----------|----------|----------|----------|----------|
-| iOS 10.0   | Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-| iOS 10.0.1 | Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+| iOS 10.0   | Untested|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+| iOS 10.0.1 | Untested|Untested/Unknown|Untested/Unknown|Untested/Unknown|
 | iOS 10.0.2 | Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
 | iOS 10.0.3 | Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
 | iOS 10.1   | Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
