@@ -176,9 +176,9 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 # Supported Devices iOS 8.0 to iOS 8.3
 |iOS       |5S        |6         |6+        |iPod Touch 6|iPad Air|iPad Air 2|iPad Mini 2|iPad Mini 3|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 8.0   |Untested  |Untested  |Untested  |       -  |Untested  |Untested  |Untested  |Untested  |
-|iOS 8.0.1 |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |Untested  |
-|iOS 8.0.2 |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |Untested  |
+|iOS 8.0   |Untested  |Untested  |Untested  |       -  |Untested  |Untested  |Untested  |-  |
+|iOS 8.0.1 |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |-  |
+|iOS 8.0.2 |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |-  |
 |iOS 8.1   |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |Untested  |
 |iOS 8.1.1 |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |Untested  |
 |iOS 8.1.2 |Untested  |Untested  |Untested  |-         |Untested  |Untested  |Untested  |Untested  |
@@ -208,7 +208,7 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 # Supported Devices iOS 10.0 to iOS 10.3.3
 |iOS|5S|6|6+|6S|6S+|SE|7|7+|iPod Touch 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad Mini 2|iPad Mini 3|iPad Mini 4|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 10.0 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+|iOS 10.0 |NO|NO|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 |iOS 10.0.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 |iOS 10.0.2 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 |iOS 10.0.3 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
