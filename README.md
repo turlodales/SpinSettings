@@ -34,9 +34,8 @@ My own road map
 # Not Supported Devices Yet above iOS 10
 | Device | Staus | Device | Staus | Device | Staus | Device | Staus |
 |---------|----------|---------|----------|---------|----------|---------|----------|
-| iPhone 4  | planned   | iPad Mini 1 | planned | iPod Touch 5 | planned |Apple TV4 | planned |
-| iPhone 5  | planned   | iPad Mini 1 | planned | iPod Touch 6 | planned |Apple TV4K | planned |
-| iPhone 5C | working   | iPad Mini 2 | planned | 
+| iPhone 5  | planned   | iPad Mini 1 | planned | iPod Touch 5 | planned |Apple TV4 | planned |
+| iPhone 5C | working   | iPad Mini 2 | planned | iPod Touch 6 | planned |Apple TV 4K | planned |
 | iPhone 5S | iOS 9.3.3 | iPad Mini 3 | planned |- | - |- | - |
 | iPhone 6  | planned   | iPad Mini 4 | planned |- | - |- | - |
 | iPhone 6+ | planned   | iPad Air    | planned |- | - |- | - |
@@ -193,12 +192,12 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 # Supported Devices iOS 9.0 to iOS 9.3.5
 |iOS       |5S |6  |6+ |6S |6S+|SE|iPod Touch 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch)1st gen|iPad Pro (9.7 inch)1st gen|iPad Mini 2|iPad Mini 3|iPad Mini 4|Apple TV 4|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 9.0   |NO |NO |NO |NO |NO |-  |NO         |NO      |NO        |-                          |-                       |NO |NO |NO |NO|
-|iOS 9.0.1 |NO |NO |NO |NO |NO |-  |NO         |NO      |NO        |-                          |-                       |NO |NO |NO |NO|
-|iOS 9.0.2 |NO |NO |NO |NO |NO |-  |NO         |NO      |NO        |-                          |-                       |NO |NO |NO |NO|
-|iOS 9.1   |NO |NO |NO |NO |NO |-  |NO         |NO      |NO        |NO                         |-                       |NO |NO |NO |NO|
-|iOS 9.2   |NO |NO |NO |NO |NO |-  |NO         |NO      |NO        |NO                         |-                       |NO |NO |NO |NO|
-|iOS 9.2.1 |NO |NO |NO |NO |NO |-  |NO         |NO      |NO        |NO                         |-                       |NO |NO |NO |NO|
+|iOS 9.0   |NO |NO |NO |NO |NO |-  |NO         |NO      |       NO |                        NO |-                       |NO |NO |NO |NO|
+|iOS 9.0.1 |NO |NO |NO |NO |NO |-  |NO         |NO |NO |NO |-  |NO |NO |NO |NO|
+|iOS 9.0.2 |NO |NO |NO |NO |NO |-  |NO         |NO |NO |NO |- |NO |NO |NO |NO|
+|iOS 9.1   |NO |NO |NO |NO |NO |-  |NO         |NO |NO |NO |- |NO  |NO |NO |NO|
+|iOS 9.2   |NO |NO |NO |NO |NO |-  |NO |NO |NO |NO |-  |NO |NO |NO |NO|
+|iOS 9.2.1 |NO |NO |NO |NO |NO |-  |NO |NO |NO |NO |-  |NO |NO |NO |NO|
 |iOS 9.3   |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO|
 |iOS 9.3.1 |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO|
 |iOS 9.3.2 |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO |NO|
