@@ -214,7 +214,7 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 |iOS 10.0.3  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |NO|
 |iOS 10.1    |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |NO|
 |iOS 10.1.1  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |NO|
-|iOS 10.2    |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |NO|
+|iOS 10.2    |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |YES|NO  |-    |- |-   |NO|NO|NO         |NO|
 |iOS 10.2.1  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |NO|
 |iOS 10.3    |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |NO   |- |-   |NO|NO|NO         |NO|
 |iOS 10.3.1  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |NO   |- |-   |NO|NO|NO         |NO|
@@ -249,7 +249,7 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 |iOS 12.0   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
 |iOS 12.1   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
 |iOS 12.0.1 |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
-12.1 B      |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
+12.1        |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
 
 
 I would like to say a big thank you to the people that have helped me make this happen:
