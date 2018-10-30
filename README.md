@@ -36,12 +36,12 @@ My own road map
 |---------|----------|---------|----------|---------|----------|---------|----------|
 | iPhone 5  | planned   | iPad Mini 1 | planned | iPod Touch 5 | planned |Apple TV4 | planned |
 | iPhone 5C | working   | iPad Mini 2 | planned | iPod Touch 6 | planned |Apple TV 4K | planned |
-| iPhone 5S | iOS 9.3.3 | iPad Mini 3 | planned |- | - |- | - |
+| iPhone 5S | planned | iPad Mini 3 | planned |- | - |- | - |
 | iPhone 6  | planned   | iPad Mini 4 | planned |- | - |- | - |
 | iPhone 6+ | planned   | iPad Air    | planned |- | - |- | - |
 | iPhone SE | Planned   |iPad Air 2   | planned |- | - |- | - |
-| iPhone 6S | iOS 9.3.3 |ipad Pro 12.9 1st gen| Planned |- | - |- | - |
-| iPhone 6S+| iOS 9.3.3 |ipad Pro 9.7 1st gen   | planned |- | - |- | - |
+| iPhone 6S | planned |ipad Pro 12.9 1st gen| Planned |- | - |- | - |
+| iPhone 6S+| planned |ipad Pro 9.7 1st gen   | planned |- | - |- | - |
 | iPhone 7  | planned   |ipad 2017   | planned |- | - |- | - |
 | iPhone 7+ | planned   |iPad Pro (2nd, 12.9)     | planned |- | - |- | - |
 | iPhone 8  | planned   |iPad Pro (2nd, 10.5)   | planned |- | - |- | - |
@@ -51,7 +51,7 @@ My own road map
 | iPhone XS Max | planned   |- | -|- | - |- | - |
 | iPhone XR | planned |- | - |- | - |
 
-Note i do have a iPad Air 2 but broken screen but running 10.2
+Note: i do have a iPad Air 2 but broken screen but running 10.2
 
 # Devices 32Bit
 
@@ -59,7 +59,7 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 |---------|----------|
 | iPhone 4S | iOS 9.3.3/9.3.5 |
 | iPhone 5 | iOS 9.3.3 |
-| iPhone 5C | iOS 9.3.3 |
+| iPhone 5C | iOS 10.3.3 |
 
 # Not Supported 32bit Devices (MAY Work But NOT Tested as i dont have yet)
 | Device | Supports |
@@ -128,7 +128,7 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 | iOS 10.3   | Untested|Untested|Untested|Untested|
 | iOS 10.3.1 | Untested|Untested|Untested|Untested|
 | iOS 10.3.2 | Untested|Untested|Untested|Untested|
-| iOS 10.3.3 | Untested|Untested|Untested|Untested|
+| iOS 10.3.3 | Untested|working |Untested|Untested|
 
 # Devices 64Bit
 
@@ -246,10 +246,10 @@ Note i do have a iPad Air 2 but broken screen but running 10.2
 # Supported Devices iOS 12.0 to iOS 12.0 
 |iOS|5S|6|6+|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 2018|Apple TV 4|Apple TV  4K|iPad ??|iPad ??|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------- |---------- |---------- |----------|----------|----------|----------|
-|iOS 12.0   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
-|iOS 12.1   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
-|iOS 12.0.1 |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
-12.1        |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
+|iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
+|iOS 12.0.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
+|iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
+
 
 
 I would like to say a big thank you to the people that have helped me make this happen:
