@@ -40,12 +40,12 @@ My own road map
 | iPhone 6  | planned   | iPad Mini 4 | planned |- | - |- | - |
 | iPhone 6+ | planned   | iPad Air    | planned |- | - |- | - |
 | iPhone SE | Planned   |iPad Air 2   | planned |- | - |- | - |
-| iPhone 6S | iOS 9.3.3 |ipad Pro 9.7 1st gen| Planned |- | - |- | - |
-| iPhone 6S+| iOS 9.3.3 |ipad 2017    | planned |- | - |- | - |
-| iPhone 7  | planned   |iPad Pro (2nd, 12.9)    | planned |- | - |- | - |
-| iPhone 7+ | planned   |iPad Pro (2nd, 10.5)    | planned |- | - |- | - |
-| iPhone 8  | planned   |iPad 2018    | planned |- | - |- | - |
-| iPhone 8+ | planned   |- |- |- | - |- | - |
+| iPhone 6S | iOS 9.3.3 |ipad Pro 12.9 1st gen| Planned |- | - |- | - |
+| iPhone 6S+| iOS 9.3.3 |ipad Pro 9.7 1st gen   | planned |- | - |- | - |
+| iPhone 7  | planned   |ipad 2017   | planned |- | - |- | - |
+| iPhone 7+ | planned   |iPad Pro (2nd, 12.9)     | planned |- | - |- | - |
+| iPhone 8  | planned   |iPad Pro (2nd, 10.5)   | planned |- | - |- | - |
+| iPhone 8+ | planned   |iPad 2018 |- |- | - |- | - |
 | iPhone X  | planned   |- | -|- | - |- | - |
 | iPhone XS | planned   |- | -|- | - |- | - |
 | iPhone XS Max | planned   |- | -|- | - |- | - |
