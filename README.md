@@ -195,14 +195,14 @@ Note: i do have a iPad Air 2 but broken screen but running 10.2
 |iOS 9.0   |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |-                     |-             |NO |NO |NO |NO|
 |iOS 9.0.1 |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |-                     |-             |NO |NO |NO |NO|
 |iOS 9.0.2 |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |-                     |-             |NO |NO |NO |NO|
-|iOS 9.1   |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |NO                    |-             |NO |NO |NO |NO|
+|iOS 9.1   |NO JB |NO |NO |NO |NO |- |NO         |NO       |NO               |NO                    |-             |NO |NO |NO |NO|
 |iOS 9.2   |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |NO                    |-             |NO |NO |NO |NO|
 |iOS 9.2.1 |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |NO                    |-             |NO |NO |NO |NO|
 |iOS 9.3   |NO |NO |NO |NO |NO |NO   |NO         |NO       |NO               |NO                    |NO            |NO |NO |NO |NO|
 |iOS 9.3.1 |NO |NO |NO |NO |NO |NO   |NO         |NO       |NO               |NO                    |NO            |NO |NO |NO |NO|
 |iOS 9.3.2 |NO |NO |NO |NO |NO |NO   |NO         |NO       |NO               |NO                    |NO            |NO |NO |NO |NO|
 |iOS 9.3.3 |NO |NO |NO |NO |NO |NO   |NO         |NO       |NO               |NO                    |NO            |NO |NO |NO |NO|
-|iOS 9.3.4 |NO |NO |NO |NO |NO |NO   |NO JB      |NO JB    |NO JB            |NO JB                 |NO            |NO |NO |NO |NO|
+|iOS 9.3.4 |NO JB|NO |NO |NO |NO |NO |NO JB      |NO JB    |NO JB            |NO JB                 |NO            |NO |NO |NO |NO|
 |iOS 9.3.5 |NO JB|NO JB|NO JB|NO JB|NO JB|NO   |NO         |NO JB    |NO JB            |NO JB            |NO            |NO |NO |NO |NO|
 
 # Supported Devices iOS 10.0 to iOS 10.3.3
@@ -239,8 +239,8 @@ Note: i do have a iPad Air 2 but broken screen but running 10.2
 |iOS 11.2.5   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |NO|NO|
 |iOS 11.3     |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
 |iOS 11.3.1   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
-|iOS 11.4     |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
-|iOS 11.4.1   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
+|iOS 11.4     |NO JB|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
+|iOS 11.4.1   |NO JB|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
 
 
 # Supported Devices iOS 12.0 to iOS 12.0 
