@@ -239,17 +239,17 @@ Note: i do have a iPad Air 2 but broken screen but running 10.2
 |iOS 11.2.5   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |NO|NO|
 |iOS 11.3     |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
 |iOS 11.3.1   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
-|iOS 11.4     |NO JB|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
-|iOS 11.4.1   |NO JB|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
+|iOS 11.4     |NO JB|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
+|iOS 11.4.1   |NO JB|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
 
 
 # Supported Devices iOS 12.0 to iOS 12.0 
 |iOS|5S|6|6+|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|Apple TV 4|Apple TV  4K|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------- |---------- |---------- |----------|----------|----------|----------|
-|iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO  |-|-|
-|iOS 12.0.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO  |-|-|
-|iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO  |-|-|
-|iOS 12.1.1 Beta 1 |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO  |-|-|
+|iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
+|iOS 12.0.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
+|iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
+|iOS 12.1.1 Beta 1 |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO  |NO|NO  |NO |-|-|NO|NO|
 
 
 
