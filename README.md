@@ -252,7 +252,7 @@ Note: i do have a iPad Air 2 but broken screen but running 10.2
 |iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 |iOS 12.1.1 Beta 1 |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO  |NO|NO  |NO |-|-|NO|NO|
 
-
+-----------------------------------------------------------------------------------------------------------------------------
 
 I would like to say a big thank you to the people that have helped me make this happen:
 
