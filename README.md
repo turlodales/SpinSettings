@@ -32,24 +32,24 @@ My own road map
 
 
 # Not Supported Devices Yet above iOS 10
-| Device | Staus | Device | Staus | Device | Staus | Device | Staus |
+| Device        | Staus   | Device                     | Staus | Device       | Staus   | Device     | Staus   |
 |---------|----------|---------|----------|---------|----------|---------|----------|
-| iPhone 5  | planned   | iPad Mini 1 | planned | iPod Touch 5 | planned |Apple TV4 | planned |
-| iPhone 5C | working   | iPad Mini 2 | planned | iPod Touch 6 | planned |Apple TV 4K | planned |
-| iPhone 5S | planned | iPad Mini 3 | planned |- | - |- | - |
-| iPhone 6  | planned   | iPad Mini 4 | planned |- | - |- | - |
-| iPhone 6+ | planned   | iPad Air    | planned |- | - |- | - |
-| iPhone SE | Planned   |iPad Air 2   | planned |- | - |- | - |
-| iPhone 6S | planned |ipad Pro 12.9 1st gen| Planned |- | - |- | - |
-| iPhone 6S+| planned |ipad Pro 9.7 1st gen   | planned |- | - |- | - |
-| iPhone 7  | planned   |ipad 2017   | planned |- | - |- | - |
-| iPhone 7+ | planned   |iPad Pro (2nd, 12.9)     | planned |- | - |- | - |
-| iPhone 8  | planned   |iPad Pro (2nd, 10.5)   | planned |- | - |- | - |
-| iPhone 8+ | planned   |iPad 2018 |- |- | - |- | - |
-| iPhone X  | planned   |- | -|- | - |- | - |
-| iPhone XS | planned   |- | -|- | - |- | - |
-| iPhone XS Max | planned   |- | -|- | - |- | - |
-| iPhone XR | planned |- | - |- | - |
+| iPhone 5      | Planned | iPad Mini 1 | Planned              | iPod Touch 5 | Planned |Apple TV4   | Planned |
+| iPhone 5C     | Working | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |Apple TV 4K | Planned |
+| iPhone 5S     | Planned | iPad Mini 3 | Planned |- | - |- | - |
+| iPhone 6      | Planned | iPad Mini 4 | Planned |- | - |- | - |
+| iPhone 6+     | Planned | iPad Air    | Planned |- | - |- | - |
+| iPhone SE     | Planned | iPad Air 2  | Planned |- | - |- | - |
+| iPhone 6S     | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
+| iPhone 6S+    | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
+| iPhone 7      | Planned |iPad 2017          (5th Gen)| Planned |- | - |- | - |
+| iPhone 7+     | Planned |iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
+| iPhone 8      | Planned |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
+| iPhone 8+     | Planned |iPad 2018          (6th Gen)| Planned |- | - |- | - |
+| iPhone X      | Planned |iPad Pro 11-inch   (3rd Gen)| Planned |- | - |- | - |
+| iPhone XS     | Planned |iPad Pro 12.9-inch (3rd Gen)| Planned |- | - |- | - |
+| iPhone XS Max | Planned |- | -|- | - |- | - |
+| iPhone XR     | Planned |- | - |- | - |
 
 Note: i do have a iPad Air 2 but broken screen but running 10.2
 
@@ -244,12 +244,12 @@ Note: i do have a iPad Air 2 but broken screen but running 10.2
 
 
 # Supported Devices iOS 12.0 to iOS 12.0 
-|iOS|5S|6|6+|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|Apple TV 4|Apple TV  4K|iPad ??|iPad ??|
+|iOS|5S|6|6+|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|Apple TV 4|Apple TV  4K|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------- |---------- |---------- |----------|----------|----------|----------|
-|iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
-|iOS 12.0.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
-|iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
-|iOS 12.1.1 Beta 1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO|   --|--|
+|iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO  |-|-|
+|iOS 12.0.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO  |-|-|
+|iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO  |-|-|
+|iOS 12.1.1 Beta 1 |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO        |NO     |NO|NO  |-|-|
 
 
 
