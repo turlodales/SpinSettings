@@ -21,14 +21,14 @@ why am i putting is on github:
 for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved.
 
 My own road map
-- [x] step 1 get read me finished 
-- [ ] step 2 start working on the tweak
-- [ ] step 3 get it working on my own devices
-- [ ] step 4 get new devices or ask for bata testers
-- [ ] step 5 fix bugs 
-- [ ] step 6 try and make 64bit only verson
-- [ ] step 7 relise to the public
-- [ ] step 8 update when needed 
+- [x] Step 1 = Get read me finished 
+- [ ] Step 2 = Start working on the tweak
+- [ ] Step 3 = Get it working on My Own Devices
+- [ ] Step 4 = Get New Devices or ask for Beta Testers
+- [ ] Step 5 = Fix bugs 
+- [ ] Step 6 = Try and make 64bit only verson
+- [ ] Step 7 = Relise to the public
+- [ ] Step 8 = Update when needed 
 
 
 # Not Supported Devices Yet above iOS 10
