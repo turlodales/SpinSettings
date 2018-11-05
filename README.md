@@ -1,4 +1,4 @@
-# SpinSettings
+# SpinSettings (32/64bit)
 Dynamically rotating settings icon for jailbroken iDevices
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -140,21 +140,22 @@ Note: i do have a iPad Air 2 but broken screen but running 10.2
 | iPhone 8+| Planned |
 | iPad Air 2 | iOS 9.3.3 |
 | iPad Pro (12.9 inch) 1st gen |10.2|
+| iPad Pro 12.9-inch (3rd Gen)| Planned |
 | Apple TV 4|planned|
 
 # Not Supported 64bit Devices  (MAY Work But NOT Tested as i dont have yet)
 | Device | Supports |Device | Supports |Device | Supports |
 |---------|----------|---------|----------|---------|----------|
-| iPhone SE | Planned | iPad Air | planned |iPod Touch 6 | planned |
-| iPhone 6  | planned | iPad Mini 2 | planned |-|-|
-| iPhone 6+ | planned | iPad Mini 3 | planned |-|-|
-| iPhone 6S | planned | iPad Mini 4 | planned |-|-|
-| iPhone 7  | planned | iPad 2017 | planned |-|-|
-| iPhone 7+ | planned | iPad Pro (9.7 inch 1st gen | planned |-|-|
-| iPhone 8  | planned | iPad Pro (12.9 inch) 2nd gen|planned|-|-|
-| iPhone X  | planned | iPad Pro (10.5 inch) 2nd gen|planned|-|-|
-| iPhone XR | planned | iPad 2018|planned |-|-|
-| iPhone XS | planned | -|-|-|-|
+| iPhone SE | Planned | iPad Air | Planned |iPod Touch 6 | planned |
+| iPhone 6  | planned | iPad Mini 2 | Planned |-|-|
+| iPhone 6+ | planned | iPad Mini 3 | Planned |-|-|
+| iPhone 6S | planned | iPad Mini 4 | Planned |-|-|
+| iPhone 7  | planned | iPad 2017 | Planned |-|-|
+| iPhone 7+ | planned | iPad Pro (9.7 inch 1st gen | Planned |-|-|
+| iPhone 8  | planned | iPad Pro (12.9 inch) 2nd gen|Planned|-|-|
+| iPhone X  | planned | iPad Pro (10.5 inch) 2nd gen| Planned |-|-|
+| iPhone XR | planned | iPad 2018 | Planned |-|-|
+| iPhone XS | planned | iPad Pro 11-inch (3rd Gen| Planned |-|-|
 | iPhone XS Max | planned |-|-|-|-|
 
 
