@@ -51,11 +51,14 @@ My own road map
 | iPhone XS Max | Planned |- | -|- | - |- | - |
 | iPhone XR     | Planned |- | - |- | - |
 
+
 Notes: 
 
-1). i do have a iPad Air 2 but broken screen but running 10.2 
-2). 5C got off ebay on iOS 10.3.3 no shsh2 blobs so cant downgrade 
-3). 6 got off friend on iOS 12.0 no shsh2 blobs so cant downgrade below 12.0 
+| Number | Decsription |
+|---------|----------|
+| 1 | i do have a iPad Air 2 but broken screen but running 10.2 |
+| 2 | 5C got off ebay on iOS 10.3.3 no shsh2 blobs so cant downgrade |
+| 3 | iPhone 6 got off friend on iOS 12.0 no shsh2 blobs so cant downgrade below 12.0 |
 
 
 # Devices 32Bit
