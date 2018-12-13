@@ -39,22 +39,21 @@ My own road map
 # Not Supported Devices Yet above iOS 10
 | Device        | Staus   | Device                     | Staus | Device       | Staus   | Device     | Staus   |
 |---------|----------|---------|----------|---------|----------|---------|----------|
-| iPhone 5      | Planned | iPad Mini 1 | Planned              | iPod Touch 5 | Planned |Apple TV4   | Planned |
-| iPhone 5C     | Working | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |Apple TV 4K | Planned |
-| iPhone 5S     | Planned | iPad Mini 3 | Planned |- | - |- | - |
-| iPhone 6      | Planned | iPad Mini 4 | Planned |- | - |- | - |
-| iPhone 6+     | Planned | iPad Air    | Planned |- | - |- | - |
-| iPhone SE     | Planned | iPad Air 2  | Planned |- | - |- | - |
-| iPhone 6S     | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
-| iPhone 6S+    | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
-| iPhone 7      | Planned |iPad 2017          (5th Gen)| Planned |- | - |- | - |
-| iPhone 7+     | Planned |iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
-| iPhone 8      | Planned |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
-| iPhone 8+     | Planned |iPad 2018          (6th Gen)| Planned |- | - |- | - |
-| iPhone X      | Planned |iPad Pro 11-inch   (3rd Gen)| Planned |- | - |- | - |
-| iPhone XS     | Planned |iPad Pro 12.9-inch (3rd Gen)| Planned |- | - |- | - |
-| iPhone XS Max | Planned |- | -|- | - |- | - |
-| iPhone XR     | Planned |- | - |- | - |
+|  iPhone 5S     | Planned | iPad Mini 1 | Planned              | iPod Touch 5 | Planned |Apple TV4   | Planned |
+|  iPhone 6      | Planned | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |Apple TV 4K | Planned |
+|  iPhone 6+     | Planned | iPad Mini 3 | Planned |- | - |- | - |
+|  iPhone SE     | Planned | iPad Mini 4 | Planned |- | - |- | - |
+|  iPhone 6S     | Planned | iPad Air    | Planned |- | - |- | - |
+|  iPhone 6S+    | Planned | iPad Air 2  | Planned |- | - |- | - |
+|  iPhone 7      | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
+|  iPhone 7+     | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
+|  iPhone 8      | Planned |iPad 2017          (5th Gen)| Planned |- | - |- | - |
+|  iPhone 8+     | Planned |iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
+|  iPhone X      | Planned |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
+|  iPhone XS     | Planned |iPad 2018          (6th Gen)| Planned |- | - |- | - |
+|  iPhone XS Max | Planned |iPad Pro 11-inch   (3rd Gen)| Planned |- | - |- | - |
+|  iPhone XR     | Planned |iPad Pro 12.9-inch (3rd Gen)| Planned |- | - |- | - |
+
 
 
 Notes: 
@@ -71,7 +70,7 @@ Notes:
 | Device | Supports |
 |---------|----------|
 | iPhone 4S | iOS 9.3.3/9.3.5 |
-| iPhone 5 | iOS 9.3.3 |
+| iPhone 5 | iOS 10.3.3 |
 | iPhone 5C | iOS 10.3.3 |
 
 # Not Supported 32bit Devices (MAY Work But NOT Tested as i dont have yet)
@@ -141,7 +140,7 @@ Notes:
 | iOS 10.3   | Untested|Untested|Untested|Untested|
 | iOS 10.3.1 | Untested|Untested|Untested|Untested|
 | iOS 10.3.2 | Untested|Untested|Untested|Untested|
-| iOS 10.3.3 | Untested|working |Untested|Untested|
+| iOS 10.3.3 | working |working |Untested|Untested|
 
 # Devices 64Bit
 
@@ -264,7 +263,8 @@ Notes:
 |iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO  |NO|NO   |NO  |- |-  |NO|NO|
 |iOS 12.0.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO  |NO|NO   |NO  |- |-  |NO|NO|
 |iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO  |NO|NO   |NO  |NO|NO |NO|NO|
-|iOS 12.1.1 Beta 1 |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |NO|NO|
+|iOS 12.1.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |NO|NO|
+|iOS 12.1.2 Beta 1 |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |NO|NO|
 
 -----------------------------------------------------------------------------------------------------------------------------
 
