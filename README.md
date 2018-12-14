@@ -54,15 +54,15 @@ My own road map
 |  iPhone XS Max | Planned |iPad Pro 11-inch   (3rd Gen)| Planned |- | - |- | - |
 |  iPhone XR     | Planned |iPad Pro 12.9-inch (3rd Gen)| Planned |- | - |- | - |
 
-
-
 Notes: 
 
 | Number | Decsription |
 |---------|----------|
 | 1 | i do have a iPad Air 2 but broken screen but running 10.2 |
-| 2 | 5C got off ebay on iOS 10.3.3 no shsh2 blobs so cant downgrade |
-| 3 | iPhone 6 got off friend on iOS 12.0 no shsh2 blobs so cant downgrade below 12.0 |
+| 2 | iPhone 4 got off ebay on iOS 7.1.2 no shsh2 blobs so cant downgrade below 7.1.2 |
+| 3 | iPhone 5 got off ebay on iOS 10.3.3 no shsh2 blobs so cant downgrade below 10.3.3 |
+| 4 | 5C got off ebay on iOS 10.3.3 no shsh2 blobs so cant downgrade |
+| 5 | iPhone 6 got off friend on iOS 12.0 no shsh2 blobs so cant downgrade below 12.0 |
 
 
 # Devices 32Bit
