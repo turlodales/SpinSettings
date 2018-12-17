@@ -69,6 +69,7 @@ Notes:
 
 | Device | Supports |
 |---------|----------|
+| iPhone 4 | iOS 7.1.2 |
 | iPhone 4S | iOS 9.3.3/9.3.5 |
 | iPhone 5 | iOS 10.3.3 |
 | iPhone 5C | iOS 10.3.3 |
@@ -93,7 +94,7 @@ Notes:
 |iOS 7.0.6|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
 |iOS 7.1  |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
 |iOS 7.1.1|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.1.2|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
+|iOS 7.1.2|Working  |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
 
 
 # Supported Devices iOS 8.0 to iOS 8.3
