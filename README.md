@@ -1,4 +1,5 @@
 # SpinSettings (32/64bit)
+
 Dynamically rotating settings icon for jailbroken iDevices
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -8,7 +9,6 @@ Hello and Welcome This is my own attempted to get it reworking but for 32bit Dev
 for 64bit Devices Plz use the SpinSettings-2 version https://github.com/turlodales/Spinsettings-2
 
 my layout is taken form another tweak i have been working so i will be neating this up later just trying to make it looking better and easyer for my own mind.
-
 
 My own plan is to make it work from see below
 
@@ -239,7 +239,6 @@ Notes:
 
 
 # Supported Devices iOS 11.0 to iOS 11.4.1 
-
 |iOS      |5S|6|6+|6S|6S+|SE|7|7+|8|8+|X|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|Apple TV 4|Apple TV 4K|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |iOS 11.0     |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|-      |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |NO|NO|
