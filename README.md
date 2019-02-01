@@ -265,7 +265,7 @@ Notes:
 |iOS 12.0.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO  |NO|NO   |NO  |- |-  |NO|NO|
 |iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO  |NO|NO   |NO  |NO|NO |NO|NO|
 |iOS 12.1.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |NO|NO|
-|iOS 12.1.2   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |NO|NO|
+|iOS 12.1.2   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |-|-  |- |-|- |- |-|- |NO|NO|
 |iOS 12.1.3   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |-|-|
 -----------------------------------------------------------------------------------------------------------------------------
 
