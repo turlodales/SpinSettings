@@ -40,8 +40,8 @@ My own road map
 # Not Supported Devices Yet above iOS 10
 | Device        | Staus   | Device                     | Staus | Device       | Staus   | Device     | Staus   |
 |---------|----------|---------|----------|---------|----------|---------|----------|
-|  iPhone 5S     | Planned | iPad Mini 2 | Planned              | iPod Touch 5 | Planned |Apple TV4   | Planned |
-|  iPhone 6      | Planned | iPad Mini 3 | Planned              | iPod Touch 6 | Planned |Apple TV 4K | Planned |
+|  iPhone 5S     | Planned | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |Apple TV4   | Planned |
+|  iPhone 6      | Planned | iPad Mini 3 | Planned              |      -       | Planned |Apple TV 4K | Planned |
 |  iPhone 6+     | Planned | iPad Mini 4 | Planned |- | - |- | - |
 |  iPhone SE     | Planned | iPad Air    | Planned |- | - |- | - |
 |  iPhone 6S     | Planned | iPad Air 2  | Planned |- | - |- | - |
@@ -64,6 +64,7 @@ Notes:
 | 3 | iPhone 5 got off ebay on iOS 10.3.3 no shsh2 blobs so cant downgrade below 10.3.3 |
 | 4 | 5C got off ebay on iOS 10.3.3 no shsh2 blobs so cant downgrade |
 | 5 | iPhone 6 got off friend on iOS 12.0 no shsh2 blobs so cant downgrade below 12.0 |
+| 6 | iPhone SE got off Ebay on iOS 12.?.? no shsh2 blobs so cant downgrade below 12.1.3 |
 
 
 # Devices 32Bit
@@ -152,6 +153,7 @@ Notes:
 | iPhone 5S   | iOS 9.3.3 |
 | iPhone 6    | Planned |
 | iPhone 6S/+ | iOS 9.3.3 |
+| iPhone SE   | Planned |
 | iPhone 8+   | Planned |
 | iPad Air 2  | iOS 9.3.3 |
 | iPad Pro 12.9-inch (1st gen) |10.2|
@@ -160,18 +162,18 @@ Notes:
 
 
 # Not Supported 64bit Devices  (MAY Work But NOT Tested as i dont have yet)
-| Device | Supports |Device | Supports |Device | Supports |
+| Device        | Supports | Device | Supports |Device | Supports |
 |---------|----------|---------|----------|---------|----------|
-| iPhone SE | Planned | iPad Air | Planned |iPod Touch 6 | planned |
-| iPhone 6+  | planned | iPad Mini 2 | Planned |-|-|
-| iPhone 6S | planned | iPad Mini 3 | Planned |-|-|
-| iPhone 7 | planned | iPad Mini 4 | Planned |-|-|
-| iPhone 7+  | planned | iPad 2017 | Planned |-|-|
-| iPhone 8 | planned | iPad Pro (9.7 inch 1st gen | Planned |-|-|
-| iPhone X  | planned | iPad Pro (12.9 inch) 2nd gen|Planned|-|-|
-| iPhone XR  | planned | iPad Pro (10.5 inch) 2nd gen| Planned |-|-|
-| iPhone XS | planned | iPad 2018 | Planned |-|-|
-| iPhone XS Max | planned | iPad Pro 11-inch (3rd Gen| Planned |-|-|
+| iPhone 6+     | Planned | iPad Air     | Planned |iPod Touch 6 | planned |
+| iPhone 6S     | planned | iPad Mini 2  | Planned |-|-|
+| iPhone 7      | planned | iPad Mini 3  | Planned |-|-|
+| iPhone 7+     | planned | iPad Mini 4  | Planned |-|-|
+| iPhone 8      | planned | iPad 2017    | Planned |-|-|
+| iPhone X      | planned | iPad Pro (9.7 inch 1st gen | Planned |-|-|
+| iPhone XR     | planned | iPad Pro (12.9 inch) 2nd gen|Planned|-|-|
+| iPhone XS     | planned | iPad Pro (10.5 inch) 2nd gen| Planned |-|-|
+| iPhone XS Max | planned | iPad 2018 | Planned |-|-|
+|         -     | planned | iPad Pro 11-inch (3rd Gen| Planned |-|-|
 
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
