@@ -65,6 +65,8 @@ Notes:
 | 4 | 5C got off ebay on iOS 10.3.3 no shsh2 blobs so cant downgrade |
 | 5 | iPhone 6 got off friend on iOS 12.0 no shsh2 blobs so cant downgrade below 12.0 |
 | 6 | iPhone SE got off Ebay on iOS 12.?.? no shsh2 blobs so cant downgrade below 12.1.3 |
+| 7 | iPhone 6S got off Ebay on iOS 12.2 no shsh2 blobs so cant downgrade below 12.1.3 |
+
 
 
 # Devices 32Bit
