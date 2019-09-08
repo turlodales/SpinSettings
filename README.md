@@ -38,10 +38,10 @@ My own road map
 -----------------------------------------------------------------------------------------------------------------------------
 
 # Not Supported Devices Yet above iOS 10
-| Device        | Staus   | Device                     | Staus | Device       | Staus   | Device     | Staus   |
-|---------|----------|---------|----------|---------|----------|---------|----------|
-|  iPhone 5S     | Planned | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |Apple TV4   | Planned |
-|  iPhone 6      | Planned | iPad Mini 3 | Planned              |      -       | Planned |Apple TV 4K | Planned |
+| Device        | Staus   | Device                     | Staus | Device       | Staus   | 
+|---------|----------|---------|----------|---------|----------|
+|  iPhone 5S     | Planned | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |
+|  iPhone 6      | Planned | iPad Mini 3 | Planned              |      -       | Planned |
 |  iPhone 6+     | Planned | iPad Mini 4 | Planned |- | - |- | - |
 |  iPhone SE     | Planned | iPad Air    | Planned |- | - |- | - |
 |  iPhone 6S     | Planned | iPad Air 2  | Planned |- | - |- | - |
