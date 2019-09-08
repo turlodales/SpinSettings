@@ -8,6 +8,8 @@ Hello and Welcome This is my own attempted to get it reworking but for 32bit Dev
 
 for 64bit Devices Plz use the SpinSettings-2 version https://github.com/turlodales/Spinsettings-2
 
+for iPadOS Devices plz use the SpinSettings-2 (iPadSO) https://github.com/turlodales/SpinSettings-2-iPadSO- for TVOS Devices plz use the SpinSettings-2 (TVSO)
+
 my layout is taken form another tweak i have been working so i will be neating this up later just trying to make it looking better and easyer for my own mind.
 
 My own plan is to make it work from see below
