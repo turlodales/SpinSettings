@@ -265,7 +265,7 @@ Notes:
 |iOS 11.4.1   |NO JB|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |
 
 
-# Supported Devices iOS 12.0 to iOS 12.4.2
+# Supported Devices iOS 12.0 to iOS 12.4.5
 |iOS|5S|6|6+|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------- |---------- |---------- |----------|----------|
 |iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO  |NO|NO   |NO  |- |-  |
@@ -280,6 +280,9 @@ Notes:
 |iOS 12.4     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |
 |iOS 12.4.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |
 |iOS 12.4.2   |NO |NO|NO |-|- |- |-|- |-|- |-|- |-  |NO  |NO|NO|-  |NO|-  |-|-  |- |-|- |- |-|- |
+|iOS 12.4.3   |NO |NO|NO |-|- |- |-|- |-|- |-|- |-  |NO  |NO|NO|-  |NO|-  |-|-  |- |-|- |- |-|- |
+|iOS 12.4.4   |NO |NO|NO |-|- |- |-|- |-|- |-|- |-  |NO  |NO|NO|-  |NO|-  |-|-  |- |-|- |- |-|- |
+|iOS 12.4.5   |NO |NO|NO |-|- |- |-|- |-|- |-|- |-  |NO  |NO|NO|-  |NO|-  |-|-  |- |-|- |- |-|- |
 -----------------------------------------------------------------------------------------------------------------------------
 
 I would like to say a big thank you to the people that have helped me make this happen:
