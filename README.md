@@ -133,7 +133,8 @@ Notes:
 | iOS 9.3.2 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 | iOS 9.3.3 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 | iOS 9.3.4 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.5 | working|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+| iOS 9.3.5 | working |Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+| iOS 9.3.6 | working |Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 
 # Supported Devices iOS 10.0 to iOS 10.3.3
 |iOS         |       5| 5C     |iPod Touch 5|iPad 4|
