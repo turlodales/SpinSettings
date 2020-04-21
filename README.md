@@ -20,8 +20,7 @@ My own plan is to make it work from see below
 - [x] iOS 8  
 - [x] iOS 9 
 - [x] iOS 10 
-- [ ] iOS 11
-- [ ] iOS 12
+
 
 my plain is to make a working verson of SpinSettings for ios 11.0 to 12.0
 
@@ -52,12 +51,10 @@ My own road map
 |  iPhone 6S+    | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
 |  iPhone 7      | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
 |  iPhone 7+     | Planned |iPad 2017          (5th Gen)| Planned |- | - |- | - |
-|  iPhone 8      | Planned |iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
-|  iPhone 8+     | Planned |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
-|  iPhone X      | Planned |iPad 2018          (6th Gen)| Planned |- | - |- | - |
-|  iPhone XS     | Planned |iPad Pro 11-inch   (3rd Gen)| Planned |- | - |- | - |
-|  iPhone XS Max | Planned |iPad Pro 12.9-inch (3rd Gen)| Planned |- | - |- | - |
-|  iPhone XR     | Planned |- | - |- | - |- | - |
+|  -      | Planned |iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
+|  -     | Planned |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
+|  -      | Planned |iPad 2018          (6th Gen)| Planned |- | - |- | - |
+
 
 Notes: 
 
