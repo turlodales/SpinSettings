@@ -67,7 +67,6 @@ Notes:
 | 7 | iPhone 6S got off Ebay on iOS 12.2 no shsh2 blobs so cant downgrade below 12.1.3 |
 
 
-
 # Devices 32Bit
 
 | Device | Supports |
@@ -129,12 +128,12 @@ Notes:
 | iOS 9.3.3 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 | iOS 9.3.4 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 | iOS 9.3.5 | working |Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.6 | working |Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+| iOS 9.3.6 | working | - |Untested|Untested|Untested|Untested|Untested|Untested|
 
 # Supported Devices iOS 10.0 to iOS 10.3.4
 |iOS         |       5| 5C     |iPod Touch 5|iPad 4|
 |----------|----------|----------|----------|----------|
-| iOS 10.0   | Untested|Untested|Untested|Untested|
+| iOS 10.0   | - |Untested|Untested|Untested|
 | iOS 10.0.1 | Untested|Untested|Untested|Untested|
 | iOS 10.0.2 | Untested|Untested|Untested|Untested|
 | iOS 10.0.3 | Untested|Untested|Untested|Untested|
@@ -196,16 +195,16 @@ Notes:
 # Supported Devices iOS 8.0 to iOS 8.3
 |iOS       |5S        |6         |6+        |iPod Touch 6|iPad Air|iPad Air 2|iPad Mini 2|iPad Mini 3|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 8.0   |Untested  |Untested  |Untested  |       -    |Untested|-         |Untested  |-  |
-|iOS 8.0.1 |Untested  |Untested  |Untested  |-           |Untested|-         |Untested  |-  |
-|iOS 8.0.2 |Untested  |Untested  |Untested  |-           |Untested|-         |Untested  |-  |
-|iOS 8.1   |Untested  |Untested  |Untested  |-           |Untested|Untested  |Untested  |Untested  |
-|iOS 8.1.1 |Untested  |Untested  |Untested  |-           |Untested|Untested  |Untested  |Untested  |
-|iOS 8.1.2 |Untested  |Untested  |Untested  |-           |Untested|Untested  |Untested  |Untested  |
-|iOS 8.1.3 |Untested  |Untested  |Untested  |-           |Untested|Untested  |Untested  |Untested  |
-|iOS 8.2   |working   |Untested  |Untested  |-           |Untested|working   |Untested  |Untested  |
-|iOS 8.3   |Untested  |Untested  |Untested  |-           |Untested|Untested  |Untested  |Untested  |
-|iOS 8.4   |working   |Untested  |Untested  |Untested    |Untested|Untested  |Untested  |Untested  |
+|iOS 8.0   | Untested |Untested  |Untested  |       -    |Untested|-         |Untested  |-  |
+|iOS 8.0.1 | Untested |Untested  |Untested  |-           |Untested|-         |Untested  |-  |
+|iOS 8.0.2 | Untested |Untested  |Untested  |-           |Untested|-         |Untested  |-  |
+|iOS 8.1   | Untested |Untested  |Untested  |-           |Untested|Untested  |Untested  |Untested  |
+|iOS 8.1.1 | Untested |Untested  |Untested  |-           |Untested|Untested  |Untested  |Untested  |
+|iOS 8.1.2 | Untested |Untested  |Untested  |-           |Untested|Untested  |Untested  |Untested  |
+|iOS 8.1.3 | Untested |Untested  |Untested  |-           |Untested|Untested  |Untested  |Untested  |
+|iOS 8.2   | working  |Untested  |Untested  |-           |Untested|working   |Untested  |Untested  |
+|iOS 8.3   | Untested |Untested  |Untested  |-           |Untested|Untested  |Untested  |Untested  |
+|iOS 8.4   | working  |Untested  |Untested  |Untested    |Untested|Untested  |Untested  |Untested  |
 |iOS 8.4.1 |  NO JB   |NO JB     |NO JB     |Untested    |  NO JB |Untested  |  NO JN   |NO JB     |
 
 
