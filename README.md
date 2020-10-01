@@ -51,7 +51,7 @@ My own road map
 |  iPhone 6S+    | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
 |  iPhone 7      | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
 |  iPhone 7+     | Planned iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
-|  -      | Planned |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
+|  -      | - |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
 
 
 Notes: 
