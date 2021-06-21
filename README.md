@@ -40,20 +40,6 @@ My own road map
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-# Not Supported Devices Yet above iOS 10
-| Device        | Staus   | Device                     | Staus | Device       | Staus   | 
-|---------|----------|---------|----------|---------|----------|
-|  iPhone 5S     | Planned | iPad Mini 2 | Planned              | iPod Touch 5 | Planned |
-|  iPhone 6      | Planned | iPad Mini 3 | Planned              | iPod Touch 6 | Planned |
-|  iPhone 6+     | Planned | iPad Mini 4 | Planned |- | - |- | - |
-|  iPhone SE     | Planned | iPad Air    | Planned |- | - |- | - |
-|  iPhone 6S     | Planned | iPad Air 2  | Planned |- | - |- | - |
-|  iPhone 6S+    | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
-|  iPhone 7      | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
-|  iPhone 7+     | Planned iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
-|  -      | - |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
-
-
 Notes: 
 
 | Number | Decsription |
@@ -102,16 +88,16 @@ Notes:
 # Supported Devices iOS 8.0 to iOS 8.3
 |iOS       |4S        |5         |5C        |iPod Touch 5|iPad 2  |iPad 3    |iPad 4   |iPad Mini 1|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 8.0   | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.0.1 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.0.2 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.1   | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.1.2 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.1.3 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.2   | working  |Untested  |working   |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.3   | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested|
-|iOS 8.4   | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested|
-|iOS 8.4.1 | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |NO JB     |Untested|
+|iOS 8.0   | Untested |Untested  |Untested  |Untested  |    -     |Untested  |Untested  |Untested|
+|iOS 8.0.1 | Untested |Untested  |Untested  |Untested  |    -     |Untested  |Untested  |Untested|
+|iOS 8.0.2 | Untested |Untested  |Untested  |Untested  |    -     |Untested  |Untested  |Untested|
+|iOS 8.1   | Untested |Untested  |Untested  |Untested  |    -     |Untested  |Untested  |Untested|
+|iOS 8.1.2 | Untested |Untested  |Untested  |Untested  |    -     |Untested  |Untested  |Untested|
+|iOS 8.1.3 | Untested |Untested  |Untested  |Untested  |    -     |Untested  |Untested  |Untested|
+|iOS 8.2   | working  |Untested  |working   |Untested  |    -     |Untested  |Untested  |Untested|
+|iOS 8.3   | Untested |Untested  |Untested  |Untested  | Untested |Untested  |Untested  |Untested|
+|iOS 8.4   | Untested |Untested  |Untested  |Untested  | Untested |Untested  |Untested  |Untested|
+|iOS 8.4.1 | Untested |Untested  |Untested  |Untested  | Untested |Untested  |NO JB     |Untested|
 
 # Supported Devices iOS 9.0 to iOS 9.3.5
 |iOS        |4S      |5       |5C       |iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Mini 1|
